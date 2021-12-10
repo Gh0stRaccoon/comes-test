@@ -1,0 +1,2849 @@
+[
+	{
+		"id": 135,
+		"name": "Mermelada Agridulce de Morrón Maracuyá",
+		"slug": "mermelada-de-morron-maracuya",
+		"permalink": "https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/",
+		"date_created": "2019-07-27T20:13:29",
+		"date_created_gmt": "2019-07-27T23:13:29",
+		"date_modified": "2021-11-12T17:43:28",
+		"date_modified_gmt": "2021-11-12T20:43:28",
+		"type": "simple",
+		"status": "publish",
+		"featured": false,
+		"catalog_visibility": "visible",
+		"description": "<p>Mermelada de Morrón y maracuyá, es una caramelización agridulce del morrón, que lo hace un acompañamiento ideal para tablas con diferentes quesos,  acompañar picoteos salados, o usarlo como mermelada en el pan o como aderezo de una carne de pavo.</p>\n",
+		"short_description": "<p>Presentación: Envase de vidrio de 200 gr</p>\n<p>Productor: <a href=\"https://losangeles.comes.cl/liliana-rivero-espinoza/\">De la Casa</a></p>\n",
+		"sku": "",
+		"price": "2900.00",
+		"regular_price": "2900.00",
+		"sale_price": "",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": false,
+		"purchasable": true,
+		"total_sales": 60,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"external_url": "",
+		"button_text": "",
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": true,
+		"stock_quantity": 5,
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"sold_individually": false,
+		"weight": "",
+		"dimensions": {
+			"length": "",
+			"width": "",
+			"height": ""
+		},
+		"shipping_required": true,
+		"shipping_taxable": true,
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"reviews_allowed": true,
+		"average_rating": "0.00",
+		"rating_count": 0,
+		"upsell_ids": [134, 138, 381],
+		"cross_sell_ids": [383],
+		"parent_id": 0,
+		"purchase_note": "",
+		"categories": [
+			{
+				"id": 122,
+				"name": "Aceites y Salsas",
+				"slug": "aceites-y-salsas"
+			},
+			{
+				"id": 100,
+				"name": "Despacho Express",
+				"slug": "despacho-express"
+			},
+			{
+				"id": 50,
+				"name": "Mermeladas",
+				"slug": "mermeladas"
+			},
+			{
+				"id": 17,
+				"name": "Todos",
+				"slug": "todos"
+			}
+		],
+		"tags": [
+			{
+				"id": 25,
+				"name": "De la Casa",
+				"slug": "de-la-casa"
+			}
+		],
+		"images": [
+			{
+				"id": 4345,
+				"date_created": "2020-08-21T15:39:34",
+				"date_created_gmt": "2020-08-21T21:39:34",
+				"date_modified": "2020-08-21T15:39:34",
+				"date_modified_gmt": "2020-08-21T21:39:34",
+				"src": "https://losangeles.comes.cl/wp-content/uploads/2019/07/MorronMaracuya2DLC.jpg",
+				"name": "MorronMaracuya2DLC",
+				"alt": ""
+			}
+		],
+		"attributes": [],
+		"default_attributes": [],
+		"variations": [],
+		"grouped_products": [],
+		"menu_order": 0,
+		"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>2,900</bdi></span>",
+		"related_ids": [361, 288, 129, 295, 266],
+		"meta_data": [
+			{
+				"id": 786,
+				"key": "yikes_woo_products_tabs",
+				"value": [
+					{
+						"title": "Información Nutricional",
+						"id": "informacion-nutricional",
+						"content": "<table style=\"color: #000000;\" border=\"0\" width=\"261\" cellspacing=\"0\" cellpadding=\"0\"><colgroup> <col span=\"3\" width=\"87\" /></colgroup>\r\n<tbody>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" width=\"87\" height=\"21\"></td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\" width=\"87\">100 gr</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\" width=\"87\">1 porción</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">energía (kcal)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">189</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">38</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">proteínas (g)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">0,7</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">0,1</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">grasa total (g)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">0,2</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">0</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">H. de Carbono (g)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">46,1</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">9,2</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">Azúcares ttales (g)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">38,9</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">7,8</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">Sodio (mg)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">9</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">1,8</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+					}
+				]
+			},
+			{
+				"id": 3962,
+				"key": "fb_product_description",
+				"value": ""
+			},
+			{
+				"id": 3964,
+				"key": "_yoast_wpseo_primary_product_cat",
+				"value": "17"
+			},
+			{
+				"id": 3965,
+				"key": "_yoast_wpseo_content_score",
+				"value": "60"
+			},
+			{
+				"id": 90292,
+				"key": "fb_product_group_id",
+				"value": "2525967534173347"
+			},
+			{
+				"id": 90296,
+				"key": "_wc_facebook_sync_enabled",
+				"value": "yes"
+			},
+			{
+				"id": 90297,
+				"key": "fb_visibility",
+				"value": "yes"
+			},
+			{
+				"id": 90298,
+				"key": "_wc_facebook_product_image_source",
+				"value": "product"
+			},
+			{
+				"id": 90299,
+				"key": "fb_product_item_id",
+				"value": "2525967584173342"
+			},
+			{
+				"id": 125799,
+				"key": "_last_editor_used_jetpack",
+				"value": "classic-editor"
+			},
+			{
+				"id": 142236,
+				"key": "_openpos_product_version_0",
+				"value": "1636749809"
+			},
+			{
+				"id": 169125,
+				"key": "_op_barcode",
+				"value": ""
+			},
+			{
+				"id": 169126,
+				"key": "_op_cost_price",
+				"value": ""
+			},
+			{
+				"id": 169127,
+				"key": "_op_weight_base_pricing",
+				"value": "no"
+			},
+			{
+				"id": 169128,
+				"key": "_wc_facebook_commerce_enabled",
+				"value": "no"
+			},
+			{
+				"id": 169129,
+				"key": "_yoast_wpseo_focuskw",
+				"value": "mermelada de Morrón"
+			},
+			{
+				"id": 169130,
+				"key": "_yoast_wpseo_linkdex",
+				"value": "41"
+			},
+			{
+				"id": 169131,
+				"key": "_yoast_wpseo_estimated-reading-time-minutes",
+				"value": ""
+			}
+		],
+		"stock_status": "instock",
+		"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Mermelada Agridulce de Morrón Maracuyá - ComeS Los Ángeles</title>\n<meta name=\"description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/\" />\n<meta property=\"og:locale\" content=\"es_ES\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Mermelada Agridulce de Morrón Maracuyá - ComeS Los Ángeles\" />\n<meta property=\"og:description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí\" />\n<meta property=\"og:url\" content=\"https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/\" />\n<meta property=\"og:site_name\" content=\"ComeS Los Ángeles\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/ComeS.cl/\" />\n<meta property=\"article:modified_time\" content=\"2021-11-12T20:43:28+00:00\" />\n<meta property=\"og:image\" content=\"https://losangeles.comes.cl/wp-content/uploads/2019/07/MorronMaracuya2DLC.jpg\" />\n\t<meta property=\"og:image:width\" content=\"600\" />\n\t<meta property=\"og:image:height\" content=\"600\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://losangeles.comes.cl/#organization\",\"name\":\"ComeS Los \\Ángeles\",\"url\":\"https://losangeles.comes.cl/\",\"sameAs\":[\"https://www.facebook.com/ComeS.cl/\",\"https://www.instagram.com/comes.cl/\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/#logo\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"width\":480,\"height\":480,\"caption\":\"ComeS Los \\Ángeles\"},\"image\":{\"@id\":\"https://losangeles.comes.cl/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://losangeles.comes.cl/#website\",\"url\":\"https://losangeles.comes.cl/\",\"name\":\"ComeS Los \\Ángeles\",\"description\":\"productos locales\",\"publisher\":{\"@id\":\"https://losangeles.comes.cl/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://losangeles.comes.cl/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es\"},{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/#primaryimage\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/MorronMaracuya2DLC.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/MorronMaracuya2DLC.jpg\",\"width\":600,\"height\":600},{\"@type\":\"WebPage\",\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/#webpage\",\"url\":\"https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/\",\"name\":\"Mermelada Agridulce de Morr\\ón Maracuy\\á - ComeS Los \\Ángeles\",\"isPartOf\":{\"@id\":\"https://losangeles.comes.cl/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/#primaryimage\"},\"datePublished\":\"2019-07-27T23:13:29+00:00\",\"dateModified\":\"2021-11-12T20:43:28+00:00\",\"description\":\"Productos de peque\\ños productores locales, saludables y sustentables... encu\\éntralos aqu\\í\",\"breadcrumb\":{\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https://losangeles.comes.cl/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Productos\",\"item\":\"https://losangeles.comes.cl/tienda/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Mermelada Agridulce de Morr\\ón Maracuy\\á\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+		"yoast_head_json": {
+			"title": "Mermelada Agridulce de Morrón Maracuyá - ComeS Los Ángeles",
+			"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí",
+			"robots": {
+				"index": "index",
+				"follow": "follow",
+				"max-snippet": "max-snippet:-1",
+				"max-image-preview": "max-image-preview:large",
+				"max-video-preview": "max-video-preview:-1"
+			},
+			"canonical": "https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/",
+			"og_locale": "es_ES",
+			"og_type": "article",
+			"og_title": "Mermelada Agridulce de Morrón Maracuyá - ComeS Los Ángeles",
+			"og_description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí",
+			"og_url": "https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/",
+			"og_site_name": "ComeS Los Ángeles",
+			"article_publisher": "https://www.facebook.com/ComeS.cl/",
+			"article_modified_time": "2021-11-12T20:43:28+00:00",
+			"og_image": [
+				{
+					"width": 600,
+					"height": 600,
+					"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/MorronMaracuya2DLC.jpg",
+					"type": "image/jpeg"
+				}
+			],
+			"twitter_card": "summary_large_image",
+			"schema": {
+				"@context": "https://schema.org",
+				"@graph": [
+					{
+						"@type": "Organization",
+						"@id": "https://losangeles.comes.cl/#organization",
+						"name": "ComeS Los Ángeles",
+						"url": "https://losangeles.comes.cl/",
+						"sameAs": [
+							"https://www.facebook.com/ComeS.cl/",
+							"https://www.instagram.com/comes.cl/"
+						],
+						"logo": {
+							"@type": "ImageObject",
+							"@id": "https://losangeles.comes.cl/#logo",
+							"inLanguage": "es",
+							"url": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"width": 480,
+							"height": 480,
+							"caption": "ComeS Los Ángeles"
+						},
+						"image": {
+							"@id": "https://losangeles.comes.cl/#logo"
+						}
+					},
+					{
+						"@type": "WebSite",
+						"@id": "https://losangeles.comes.cl/#website",
+						"url": "https://losangeles.comes.cl/",
+						"name": "ComeS Los Ángeles",
+						"description": "productos locales",
+						"publisher": {
+							"@id": "https://losangeles.comes.cl/#organization"
+						},
+						"potentialAction": [
+							{
+								"@type": "SearchAction",
+								"target": {
+									"@type": "EntryPoint",
+									"urlTemplate": "https://losangeles.comes.cl/?s={search_term_string}"
+								},
+								"query-input": "required name=search_term_string"
+							}
+						],
+						"inLanguage": "es"
+					},
+					{
+						"@type": "ImageObject",
+						"@id": "https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/#primaryimage",
+						"inLanguage": "es",
+						"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/MorronMaracuya2DLC.jpg",
+						"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/07/MorronMaracuya2DLC.jpg",
+						"width": 600,
+						"height": 600
+					},
+					{
+						"@type": "WebPage",
+						"@id": "https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/#webpage",
+						"url": "https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/",
+						"name": "Mermelada Agridulce de Morrón Maracuyá - ComeS Los Ángeles",
+						"isPartOf": {
+							"@id": "https://losangeles.comes.cl/#website"
+						},
+						"primaryImageOfPage": {
+							"@id": "https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/#primaryimage"
+						},
+						"datePublished": "2019-07-27T23:13:29+00:00",
+						"dateModified": "2021-11-12T20:43:28+00:00",
+						"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí",
+						"breadcrumb": {
+							"@id": "https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/#breadcrumb"
+						},
+						"inLanguage": "es",
+						"potentialAction": [
+							{
+								"@type": "ReadAction",
+								"target": [
+									"https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/"
+								]
+							}
+						]
+					},
+					{
+						"@type": "BreadcrumbList",
+						"@id": "https://losangeles.comes.cl/producto/mermelada-de-morron-maracuya/#breadcrumb",
+						"itemListElement": [
+							{
+								"@type": "ListItem",
+								"position": 1,
+								"name": "Portada",
+								"item": "https://losangeles.comes.cl/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 2,
+								"name": "Productos",
+								"item": "https://losangeles.comes.cl/tienda/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 3,
+								"name": "Mermelada Agridulce de Morrón Maracuyá"
+							}
+						]
+					}
+				]
+			}
+		},
+		"_links": {
+			"self": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products/135"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products"
+				}
+			]
+		}
+	},
+	{
+		"id": 134,
+		"name": "Mermelada Agridulce de Morrón",
+		"slug": "mermelada-de-morron",
+		"permalink": "https://losangeles.comes.cl/producto/mermelada-de-morron/",
+		"date_created": "2019-07-27T20:13:15",
+		"date_created_gmt": "2019-07-27T23:13:15",
+		"date_modified": "2021-11-04T17:21:48",
+		"date_modified_gmt": "2021-11-04T20:21:48",
+		"type": "simple",
+		"status": "publish",
+		"featured": false,
+		"catalog_visibility": "visible",
+		"description": "<p>Mermelada de Morrón, es una caramelización agridulce del morrón, que lo hace un acompañamiento ideal para tablas con diferentes quesos,  acompañar picoteos salados, o usarlo como mermelada o chutney.</p>\n<p>En el interior encontrarás trocitos de pimentones de diferentes colores, que harán que las tablas de picoteo no solo sean deliciosas, también serán muy estéticas.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+		"short_description": "<p>Presentación: Envase de vidrio de 200 gr</p>\n<p>Productor: <a href=\"https://losangeles.comes.cl/liliana-rivero-espinoza/\">De la Casa</a></p>\n",
+		"sku": "",
+		"price": "2900.00",
+		"regular_price": "2900.00",
+		"sale_price": "",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": false,
+		"purchasable": true,
+		"total_sales": 70,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"external_url": "",
+		"button_text": "",
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": true,
+		"stock_quantity": 6,
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"sold_individually": false,
+		"weight": "",
+		"dimensions": {
+			"length": "",
+			"width": "",
+			"height": ""
+		},
+		"shipping_required": true,
+		"shipping_taxable": true,
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"reviews_allowed": true,
+		"average_rating": "0.00",
+		"rating_count": 0,
+		"upsell_ids": [310, 382, 129],
+		"cross_sell_ids": [313],
+		"parent_id": 0,
+		"purchase_note": "",
+		"categories": [
+			{
+				"id": 122,
+				"name": "Aceites y Salsas",
+				"slug": "aceites-y-salsas"
+			},
+			{
+				"id": 100,
+				"name": "Despacho Express",
+				"slug": "despacho-express"
+			},
+			{
+				"id": 50,
+				"name": "Mermeladas",
+				"slug": "mermeladas"
+			},
+			{
+				"id": 17,
+				"name": "Todos",
+				"slug": "todos"
+			}
+		],
+		"tags": [
+			{
+				"id": 25,
+				"name": "De la Casa",
+				"slug": "de-la-casa"
+			}
+		],
+		"images": [
+			{
+				"id": 4346,
+				"date_created": "2020-08-21T15:42:02",
+				"date_created_gmt": "2020-08-21T21:42:02",
+				"date_modified": "2020-08-21T15:42:02",
+				"date_modified_gmt": "2020-08-21T21:42:02",
+				"src": "https://losangeles.comes.cl/wp-content/uploads/2019/07/MMorron2DLC.jpg",
+				"name": "MMorron2DLC",
+				"alt": ""
+			}
+		],
+		"attributes": [],
+		"default_attributes": [],
+		"variations": [],
+		"grouped_products": [],
+		"menu_order": 0,
+		"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>2,900</bdi></span>",
+		"related_ids": [287, 298, 575, 280, 302],
+		"meta_data": [
+			{
+				"id": 766,
+				"key": "yikes_woo_products_tabs",
+				"value": [
+					{
+						"title": "Información Nutricional",
+						"id": "informacion-nutricional",
+						"content": "<table border=\"0\" width=\"261\" cellspacing=\"0\" cellpadding=\"0\"><colgroup> <col span=\"3\" width=\"87\" /></colgroup>\r\n<tbody>\r\n<tr>\r\n<td width=\"87\" height=\"21\"></td>\r\n<td class=\"xl63\" width=\"87\">100 gr</td>\r\n<td class=\"xl63\" width=\"87\">1 porción</td>\r\n</tr>\r\n<tr>\r\n<td height=\"21\">energía (kcal)</td>\r\n<td class=\"xl63\">189</td>\r\n<td class=\"xl63\">38</td>\r\n</tr>\r\n<tr>\r\n<td height=\"21\">proteínas (g)</td>\r\n<td class=\"xl63\">0,7</td>\r\n<td class=\"xl63\">0,1</td>\r\n</tr>\r\n<tr>\r\n<td height=\"21\">grasa total (g)</td>\r\n<td class=\"xl63\">0,2</td>\r\n<td class=\"xl63\">0</td>\r\n</tr>\r\n<tr>\r\n<td height=\"21\">H. de Carbono (g)</td>\r\n<td class=\"xl63\">46,1</td>\r\n<td class=\"xl63\">9,2</td>\r\n</tr>\r\n<tr>\r\n<td height=\"21\">Azúcares ttales (g)</td>\r\n<td class=\"xl63\">38,9</td>\r\n<td class=\"xl63\">7,8</td>\r\n</tr>\r\n<tr>\r\n<td height=\"21\">Sodio (mg)</td>\r\n<td class=\"xl63\">9</td>\r\n<td class=\"xl63\">1,8</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+					}
+				]
+			},
+			{
+				"id": 3966,
+				"key": "fb_product_description",
+				"value": ""
+			},
+			{
+				"id": 3968,
+				"key": "_yoast_wpseo_primary_product_cat",
+				"value": "17"
+			},
+			{
+				"id": 3969,
+				"key": "_yoast_wpseo_content_score",
+				"value": "60"
+			},
+			{
+				"id": 90300,
+				"key": "fb_product_group_id",
+				"value": "2892194854223595"
+			},
+			{
+				"id": 90304,
+				"key": "_wc_facebook_sync_enabled",
+				"value": "yes"
+			},
+			{
+				"id": 90305,
+				"key": "fb_visibility",
+				"value": "yes"
+			},
+			{
+				"id": 90306,
+				"key": "_wc_facebook_product_image_source",
+				"value": "product"
+			},
+			{
+				"id": 90307,
+				"key": "fb_product_item_id",
+				"value": "2892195007556913"
+			},
+			{
+				"id": 143626,
+				"key": "_openpos_product_version_0",
+				"value": "1636057308"
+			},
+			{
+				"id": 144260,
+				"key": "_last_editor_used_jetpack",
+				"value": "classic-editor"
+			},
+			{
+				"id": 169134,
+				"key": "_op_barcode",
+				"value": ""
+			},
+			{
+				"id": 169135,
+				"key": "_op_cost_price",
+				"value": ""
+			},
+			{
+				"id": 169136,
+				"key": "_op_weight_base_pricing",
+				"value": "no"
+			},
+			{
+				"id": 169137,
+				"key": "_wc_facebook_commerce_enabled",
+				"value": "no"
+			},
+			{
+				"id": 169138,
+				"key": "_yoast_wpseo_focuskw",
+				"value": "mermelada de Morrón"
+			},
+			{
+				"id": 169139,
+				"key": "_yoast_wpseo_metadesc",
+				"value": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la mermelada de Morrón"
+			},
+			{
+				"id": 169140,
+				"key": "_yoast_wpseo_linkdex",
+				"value": "41"
+			},
+			{
+				"id": 169141,
+				"key": "_yoast_wpseo_estimated-reading-time-minutes",
+				"value": "1"
+			}
+		],
+		"stock_status": "instock",
+		"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Mermelada Agridulce de Morrón - ComeS Los Ángeles</title>\n<meta name=\"description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la mermelada de Morrón\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://losangeles.comes.cl/producto/mermelada-de-morron/\" />\n<meta property=\"og:locale\" content=\"es_ES\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Mermelada Agridulce de Morrón - ComeS Los Ángeles\" />\n<meta property=\"og:description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la mermelada de Morrón\" />\n<meta property=\"og:url\" content=\"https://losangeles.comes.cl/producto/mermelada-de-morron/\" />\n<meta property=\"og:site_name\" content=\"ComeS Los Ángeles\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/ComeS.cl/\" />\n<meta property=\"article:modified_time\" content=\"2021-11-04T20:21:48+00:00\" />\n<meta property=\"og:image\" content=\"https://losangeles.comes.cl/wp-content/uploads/2019/07/MMorron2DLC.jpg\" />\n\t<meta property=\"og:image:width\" content=\"600\" />\n\t<meta property=\"og:image:height\" content=\"600\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Tiempo de lectura\" />\n\t<meta name=\"twitter:data1\" content=\"1 minuto\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://losangeles.comes.cl/#organization\",\"name\":\"ComeS Los \\Ángeles\",\"url\":\"https://losangeles.comes.cl/\",\"sameAs\":[\"https://www.facebook.com/ComeS.cl/\",\"https://www.instagram.com/comes.cl/\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/#logo\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"width\":480,\"height\":480,\"caption\":\"ComeS Los \\Ángeles\"},\"image\":{\"@id\":\"https://losangeles.comes.cl/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://losangeles.comes.cl/#website\",\"url\":\"https://losangeles.comes.cl/\",\"name\":\"ComeS Los \\Ángeles\",\"description\":\"productos locales\",\"publisher\":{\"@id\":\"https://losangeles.comes.cl/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://losangeles.comes.cl/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es\"},{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-morron/#primaryimage\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/MMorron2DLC.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/MMorron2DLC.jpg\",\"width\":600,\"height\":600},{\"@type\":\"WebPage\",\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-morron/#webpage\",\"url\":\"https://losangeles.comes.cl/producto/mermelada-de-morron/\",\"name\":\"Mermelada Agridulce de Morr\\ón - ComeS Los \\Ángeles\",\"isPartOf\":{\"@id\":\"https://losangeles.comes.cl/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-morron/#primaryimage\"},\"datePublished\":\"2019-07-27T23:13:15+00:00\",\"dateModified\":\"2021-11-04T20:21:48+00:00\",\"description\":\"Productos de peque\\ños productores locales, saludables y sustentables... encu\\éntralos aqu\\í, como la mermelada de Morr\\ón\",\"breadcrumb\":{\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-morron/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://losangeles.comes.cl/producto/mermelada-de-morron/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-morron/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https://losangeles.comes.cl/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Productos\",\"item\":\"https://losangeles.comes.cl/tienda/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Mermelada Agridulce de Morr\\ón\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+		"yoast_head_json": {
+			"title": "Mermelada Agridulce de Morrón - ComeS Los Ángeles",
+			"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la mermelada de Morrón",
+			"robots": {
+				"index": "index",
+				"follow": "follow",
+				"max-snippet": "max-snippet:-1",
+				"max-image-preview": "max-image-preview:large",
+				"max-video-preview": "max-video-preview:-1"
+			},
+			"canonical": "https://losangeles.comes.cl/producto/mermelada-de-morron/",
+			"og_locale": "es_ES",
+			"og_type": "article",
+			"og_title": "Mermelada Agridulce de Morrón - ComeS Los Ángeles",
+			"og_description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la mermelada de Morrón",
+			"og_url": "https://losangeles.comes.cl/producto/mermelada-de-morron/",
+			"og_site_name": "ComeS Los Ángeles",
+			"article_publisher": "https://www.facebook.com/ComeS.cl/",
+			"article_modified_time": "2021-11-04T20:21:48+00:00",
+			"og_image": [
+				{
+					"width": 600,
+					"height": 600,
+					"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/MMorron2DLC.jpg",
+					"type": "image/jpeg"
+				}
+			],
+			"twitter_card": "summary_large_image",
+			"twitter_misc": {
+				"Tiempo de lectura": "1 minuto"
+			},
+			"schema": {
+				"@context": "https://schema.org",
+				"@graph": [
+					{
+						"@type": "Organization",
+						"@id": "https://losangeles.comes.cl/#organization",
+						"name": "ComeS Los Ángeles",
+						"url": "https://losangeles.comes.cl/",
+						"sameAs": [
+							"https://www.facebook.com/ComeS.cl/",
+							"https://www.instagram.com/comes.cl/"
+						],
+						"logo": {
+							"@type": "ImageObject",
+							"@id": "https://losangeles.comes.cl/#logo",
+							"inLanguage": "es",
+							"url": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"width": 480,
+							"height": 480,
+							"caption": "ComeS Los Ángeles"
+						},
+						"image": {
+							"@id": "https://losangeles.comes.cl/#logo"
+						}
+					},
+					{
+						"@type": "WebSite",
+						"@id": "https://losangeles.comes.cl/#website",
+						"url": "https://losangeles.comes.cl/",
+						"name": "ComeS Los Ángeles",
+						"description": "productos locales",
+						"publisher": {
+							"@id": "https://losangeles.comes.cl/#organization"
+						},
+						"potentialAction": [
+							{
+								"@type": "SearchAction",
+								"target": {
+									"@type": "EntryPoint",
+									"urlTemplate": "https://losangeles.comes.cl/?s={search_term_string}"
+								},
+								"query-input": "required name=search_term_string"
+							}
+						],
+						"inLanguage": "es"
+					},
+					{
+						"@type": "ImageObject",
+						"@id": "https://losangeles.comes.cl/producto/mermelada-de-morron/#primaryimage",
+						"inLanguage": "es",
+						"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/MMorron2DLC.jpg",
+						"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/07/MMorron2DLC.jpg",
+						"width": 600,
+						"height": 600
+					},
+					{
+						"@type": "WebPage",
+						"@id": "https://losangeles.comes.cl/producto/mermelada-de-morron/#webpage",
+						"url": "https://losangeles.comes.cl/producto/mermelada-de-morron/",
+						"name": "Mermelada Agridulce de Morrón - ComeS Los Ángeles",
+						"isPartOf": {
+							"@id": "https://losangeles.comes.cl/#website"
+						},
+						"primaryImageOfPage": {
+							"@id": "https://losangeles.comes.cl/producto/mermelada-de-morron/#primaryimage"
+						},
+						"datePublished": "2019-07-27T23:13:15+00:00",
+						"dateModified": "2021-11-04T20:21:48+00:00",
+						"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la mermelada de Morrón",
+						"breadcrumb": {
+							"@id": "https://losangeles.comes.cl/producto/mermelada-de-morron/#breadcrumb"
+						},
+						"inLanguage": "es",
+						"potentialAction": [
+							{
+								"@type": "ReadAction",
+								"target": [
+									"https://losangeles.comes.cl/producto/mermelada-de-morron/"
+								]
+							}
+						]
+					},
+					{
+						"@type": "BreadcrumbList",
+						"@id": "https://losangeles.comes.cl/producto/mermelada-de-morron/#breadcrumb",
+						"itemListElement": [
+							{
+								"@type": "ListItem",
+								"position": 1,
+								"name": "Portada",
+								"item": "https://losangeles.comes.cl/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 2,
+								"name": "Productos",
+								"item": "https://losangeles.comes.cl/tienda/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 3,
+								"name": "Mermelada Agridulce de Morrón"
+							}
+						]
+					}
+				]
+			}
+		},
+		"_links": {
+			"self": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products/134"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products"
+				}
+			]
+		}
+	},
+	{
+		"id": 132,
+		"name": "Pasta de Ají cacho cabra ahumado",
+		"slug": "pasta-de-aji",
+		"permalink": "https://losangeles.comes.cl/producto/pasta-de-aji/",
+		"date_created": "2019-07-27T20:13:02",
+		"date_created_gmt": "2019-07-27T23:13:02",
+		"date_modified": "2021-11-04T17:28:28",
+		"date_modified_gmt": "2021-11-04T20:28:28",
+		"type": "simple",
+		"status": "publish",
+		"featured": false,
+		"catalog_visibility": "visible",
+		"description": "<p>Sabrosa pasta de ají cacho de cabra ahumado, con ajo, pimentones, aceite de oliva y sal de mar.</p>\n<p>&nbsp;</p>\n<p>Esta pasta típica chilena, tiene un sabor fuerte y delicioso, para incluirla como aderezo a cualquiera de tus comida.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+		"short_description": "<p>Presentación: Envase de vidrio de 180 gr</p>\n<p>Productor: <a href=\"https://losangeles.comes.cl/liliana-rivero-espinoza/\">De la Casa</a></p>\n",
+		"sku": "",
+		"price": "2900",
+		"regular_price": "2900",
+		"sale_price": "",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": false,
+		"purchasable": true,
+		"total_sales": 63,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"external_url": "",
+		"button_text": "",
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": true,
+		"stock_quantity": 6,
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"sold_individually": false,
+		"weight": "",
+		"dimensions": {
+			"length": "",
+			"width": "",
+			"height": ""
+		},
+		"shipping_required": true,
+		"shipping_taxable": true,
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"reviews_allowed": true,
+		"average_rating": "0.00",
+		"rating_count": 0,
+		"upsell_ids": [362, 129, 62],
+		"cross_sell_ids": [298],
+		"parent_id": 0,
+		"purchase_note": "",
+		"categories": [
+			{
+				"id": 122,
+				"name": "Aceites y Salsas",
+				"slug": "aceites-y-salsas"
+			},
+			{
+				"id": 100,
+				"name": "Despacho Express",
+				"slug": "despacho-express"
+			},
+			{
+				"id": 17,
+				"name": "Todos",
+				"slug": "todos"
+			}
+		],
+		"tags": [
+			{
+				"id": 25,
+				"name": "De la Casa",
+				"slug": "de-la-casa"
+			}
+		],
+		"images": [
+			{
+				"id": 6447,
+				"date_created": "2021-04-27T17:30:22",
+				"date_created_gmt": "2021-04-27T23:30:22",
+				"date_modified": "2021-04-27T17:30:22",
+				"date_modified_gmt": "2021-04-27T23:30:22",
+				"src": "https://losangeles.comes.cl/wp-content/uploads/2019/07/CachodeCabraDLC.jpg",
+				"name": "CachodeCabraDLC",
+				"alt": ""
+			}
+		],
+		"attributes": [
+			{
+				"id": 0,
+				"name": "Picor",
+				"position": 0,
+				"visible": true,
+				"variation": true,
+				"options": ["Normal", "Más picor", "Cacho de Cabra"]
+			}
+		],
+		"default_attributes": [],
+		"variations": [],
+		"grouped_products": [],
+		"menu_order": 0,
+		"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>2,900</bdi></span>",
+		"related_ids": [305, 297, 58, 293, 295],
+		"meta_data": [
+			{
+				"id": 745,
+				"key": "yikes_woo_products_tabs",
+				"value": [
+					{
+						"title": "Información Nutricional",
+						"id": "informacion-nutricional",
+						"content": "<table style=\"color: #000000;\" border=\"0\" width=\"261\" cellspacing=\"0\" cellpadding=\"0\"><colgroup> <col span=\"3\" width=\"87\" /></colgroup>\r\n<tbody>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" width=\"87\" height=\"21\"></td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\" width=\"87\">100 gr</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\" width=\"87\">1 porción</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">energía (kcal)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">36</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">3,6</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">proteínas (g)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">1,9</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">0,2</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">grasa total (g)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">0,3</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">0</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">H. de Carbono (g)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">6,4</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">0,6</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">Sodio (mg)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">46</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">4,6</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+					}
+				]
+			},
+			{
+				"id": 4821,
+				"key": "fb_product_description",
+				"value": ""
+			},
+			{
+				"id": 4823,
+				"key": "_yoast_wpseo_primary_product_cat",
+				"value": "17"
+			},
+			{
+				"id": 4824,
+				"key": "_yoast_wpseo_content_score",
+				"value": "90"
+			},
+			{
+				"id": 98773,
+				"key": "fb_product_group_id",
+				"value": "3392444917453011"
+			},
+			{
+				"id": 116953,
+				"key": "fb_product_item_id",
+				"value": "3173256616099683"
+			},
+			{
+				"id": 118607,
+				"key": "_last_editor_used_jetpack",
+				"value": "classic-editor"
+			},
+			{
+				"id": 118711,
+				"key": "_wc_facebook_commerce_enabled",
+				"value": "no"
+			},
+			{
+				"id": 119750,
+				"key": "_wc_facebook_sync_enabled",
+				"value": "yes"
+			},
+			{
+				"id": 119751,
+				"key": "fb_visibility",
+				"value": "yes"
+			},
+			{
+				"id": 119752,
+				"key": "_wc_facebook_product_image_source",
+				"value": "product"
+			},
+			{
+				"id": 143627,
+				"key": "_openpos_product_version_0",
+				"value": "1636057708"
+			},
+			{
+				"id": 169142,
+				"key": "_op_barcode",
+				"value": ""
+			},
+			{
+				"id": 169143,
+				"key": "_op_cost_price",
+				"value": ""
+			},
+			{
+				"id": 169144,
+				"key": "_op_weight_base_pricing",
+				"value": "no"
+			},
+			{
+				"id": 169145,
+				"key": "_yoast_wpseo_focuskw",
+				"value": "pasta de ají"
+			},
+			{
+				"id": 169146,
+				"key": "_yoast_wpseo_linkdex",
+				"value": "35"
+			},
+			{
+				"id": 169147,
+				"key": "_yoast_wpseo_estimated-reading-time-minutes",
+				"value": ""
+			}
+		],
+		"stock_status": "instock",
+		"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Pasta de Ají cacho cabra ahumado - ComeS Los Ángeles</title>\n<meta name=\"description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://losangeles.comes.cl/producto/pasta-de-aji/\" />\n<meta property=\"og:locale\" content=\"es_ES\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Pasta de Ají cacho cabra ahumado - ComeS Los Ángeles\" />\n<meta property=\"og:description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí\" />\n<meta property=\"og:url\" content=\"https://losangeles.comes.cl/producto/pasta-de-aji/\" />\n<meta property=\"og:site_name\" content=\"ComeS Los Ángeles\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/ComeS.cl/\" />\n<meta property=\"article:modified_time\" content=\"2021-11-04T20:28:28+00:00\" />\n<meta property=\"og:image\" content=\"https://losangeles.comes.cl/wp-content/uploads/2019/07/CachodeCabraDLC.jpg\" />\n\t<meta property=\"og:image:width\" content=\"600\" />\n\t<meta property=\"og:image:height\" content=\"600\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://losangeles.comes.cl/#organization\",\"name\":\"ComeS Los \\Ángeles\",\"url\":\"https://losangeles.comes.cl/\",\"sameAs\":[\"https://www.facebook.com/ComeS.cl/\",\"https://www.instagram.com/comes.cl/\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/#logo\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"width\":480,\"height\":480,\"caption\":\"ComeS Los \\Ángeles\"},\"image\":{\"@id\":\"https://losangeles.comes.cl/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://losangeles.comes.cl/#website\",\"url\":\"https://losangeles.comes.cl/\",\"name\":\"ComeS Los \\Ángeles\",\"description\":\"productos locales\",\"publisher\":{\"@id\":\"https://losangeles.comes.cl/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://losangeles.comes.cl/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es\"},{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/producto/pasta-de-aji/#primaryimage\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/CachodeCabraDLC.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/CachodeCabraDLC.jpg\",\"width\":600,\"height\":600},{\"@type\":\"WebPage\",\"@id\":\"https://losangeles.comes.cl/producto/pasta-de-aji/#webpage\",\"url\":\"https://losangeles.comes.cl/producto/pasta-de-aji/\",\"name\":\"Pasta de Aj\\í cacho cabra ahumado - ComeS Los \\Ángeles\",\"isPartOf\":{\"@id\":\"https://losangeles.comes.cl/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://losangeles.comes.cl/producto/pasta-de-aji/#primaryimage\"},\"datePublished\":\"2019-07-27T23:13:02+00:00\",\"dateModified\":\"2021-11-04T20:28:28+00:00\",\"description\":\"Productos de peque\\ños productores locales, saludables y sustentables... encu\\éntralos aqu\\í\",\"breadcrumb\":{\"@id\":\"https://losangeles.comes.cl/producto/pasta-de-aji/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://losangeles.comes.cl/producto/pasta-de-aji/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://losangeles.comes.cl/producto/pasta-de-aji/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https://losangeles.comes.cl/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Productos\",\"item\":\"https://losangeles.comes.cl/tienda/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Pasta de Aj\\í cacho cabra ahumado\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+		"yoast_head_json": {
+			"title": "Pasta de Ají cacho cabra ahumado - ComeS Los Ángeles",
+			"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí",
+			"robots": {
+				"index": "index",
+				"follow": "follow",
+				"max-snippet": "max-snippet:-1",
+				"max-image-preview": "max-image-preview:large",
+				"max-video-preview": "max-video-preview:-1"
+			},
+			"canonical": "https://losangeles.comes.cl/producto/pasta-de-aji/",
+			"og_locale": "es_ES",
+			"og_type": "article",
+			"og_title": "Pasta de Ají cacho cabra ahumado - ComeS Los Ángeles",
+			"og_description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí",
+			"og_url": "https://losangeles.comes.cl/producto/pasta-de-aji/",
+			"og_site_name": "ComeS Los Ángeles",
+			"article_publisher": "https://www.facebook.com/ComeS.cl/",
+			"article_modified_time": "2021-11-04T20:28:28+00:00",
+			"og_image": [
+				{
+					"width": 600,
+					"height": 600,
+					"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/CachodeCabraDLC.jpg",
+					"type": "image/jpeg"
+				}
+			],
+			"twitter_card": "summary_large_image",
+			"schema": {
+				"@context": "https://schema.org",
+				"@graph": [
+					{
+						"@type": "Organization",
+						"@id": "https://losangeles.comes.cl/#organization",
+						"name": "ComeS Los Ángeles",
+						"url": "https://losangeles.comes.cl/",
+						"sameAs": [
+							"https://www.facebook.com/ComeS.cl/",
+							"https://www.instagram.com/comes.cl/"
+						],
+						"logo": {
+							"@type": "ImageObject",
+							"@id": "https://losangeles.comes.cl/#logo",
+							"inLanguage": "es",
+							"url": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"width": 480,
+							"height": 480,
+							"caption": "ComeS Los Ángeles"
+						},
+						"image": {
+							"@id": "https://losangeles.comes.cl/#logo"
+						}
+					},
+					{
+						"@type": "WebSite",
+						"@id": "https://losangeles.comes.cl/#website",
+						"url": "https://losangeles.comes.cl/",
+						"name": "ComeS Los Ángeles",
+						"description": "productos locales",
+						"publisher": {
+							"@id": "https://losangeles.comes.cl/#organization"
+						},
+						"potentialAction": [
+							{
+								"@type": "SearchAction",
+								"target": {
+									"@type": "EntryPoint",
+									"urlTemplate": "https://losangeles.comes.cl/?s={search_term_string}"
+								},
+								"query-input": "required name=search_term_string"
+							}
+						],
+						"inLanguage": "es"
+					},
+					{
+						"@type": "ImageObject",
+						"@id": "https://losangeles.comes.cl/producto/pasta-de-aji/#primaryimage",
+						"inLanguage": "es",
+						"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/CachodeCabraDLC.jpg",
+						"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/07/CachodeCabraDLC.jpg",
+						"width": 600,
+						"height": 600
+					},
+					{
+						"@type": "WebPage",
+						"@id": "https://losangeles.comes.cl/producto/pasta-de-aji/#webpage",
+						"url": "https://losangeles.comes.cl/producto/pasta-de-aji/",
+						"name": "Pasta de Ají cacho cabra ahumado - ComeS Los Ángeles",
+						"isPartOf": {
+							"@id": "https://losangeles.comes.cl/#website"
+						},
+						"primaryImageOfPage": {
+							"@id": "https://losangeles.comes.cl/producto/pasta-de-aji/#primaryimage"
+						},
+						"datePublished": "2019-07-27T23:13:02+00:00",
+						"dateModified": "2021-11-04T20:28:28+00:00",
+						"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí",
+						"breadcrumb": {
+							"@id": "https://losangeles.comes.cl/producto/pasta-de-aji/#breadcrumb"
+						},
+						"inLanguage": "es",
+						"potentialAction": [
+							{
+								"@type": "ReadAction",
+								"target": [
+									"https://losangeles.comes.cl/producto/pasta-de-aji/"
+								]
+							}
+						]
+					},
+					{
+						"@type": "BreadcrumbList",
+						"@id": "https://losangeles.comes.cl/producto/pasta-de-aji/#breadcrumb",
+						"itemListElement": [
+							{
+								"@type": "ListItem",
+								"position": 1,
+								"name": "Portada",
+								"item": "https://losangeles.comes.cl/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 2,
+								"name": "Productos",
+								"item": "https://losangeles.comes.cl/tienda/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 3,
+								"name": "Pasta de Ají cacho cabra ahumado"
+							}
+						]
+					}
+				]
+			}
+		},
+		"_links": {
+			"self": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products/132"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products"
+				}
+			]
+		}
+	},
+	{
+		"id": 138,
+		"name": "Mermelada de Rosa Mosqueta",
+		"slug": "mermelada-de-rosa-mosqueta",
+		"permalink": "https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/",
+		"date_created": "2019-07-27T20:12:48",
+		"date_created_gmt": "2019-07-27T23:12:48",
+		"date_modified": "2021-11-23T17:39:16",
+		"date_modified_gmt": "2021-11-23T20:39:16",
+		"type": "simple",
+		"status": "publish",
+		"featured": false,
+		"catalog_visibility": "visible",
+		"description": "<p>Mermelada natural de rosa mosqueta, solo contiene la fruta y azúcar.</p>\n<p>Deliciosa mermelada para acompañar tus desayunos.</p>\n",
+		"short_description": "<p>Presentación: Envase de vidrio de 400 gr</p>\n<p>Productor: <a href=\"https://losangeles.comes.cl/liliana-rivero-espinoza/\">De la Casa</a></p>\n",
+		"sku": "",
+		"price": "4100.00",
+		"regular_price": "4100.00",
+		"sale_price": "",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": false,
+		"purchasable": true,
+		"total_sales": 37,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"external_url": "",
+		"button_text": "",
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": true,
+		"stock_quantity": 1,
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"sold_individually": false,
+		"weight": "",
+		"dimensions": {
+			"length": "",
+			"width": "",
+			"height": ""
+		},
+		"shipping_required": true,
+		"shipping_taxable": true,
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"reviews_allowed": true,
+		"average_rating": "0.00",
+		"rating_count": 0,
+		"upsell_ids": [141, 117, 313],
+		"cross_sell_ids": [62],
+		"parent_id": 0,
+		"purchase_note": "",
+		"categories": [
+			{
+				"id": 100,
+				"name": "Despacho Express",
+				"slug": "despacho-express"
+			},
+			{
+				"id": 50,
+				"name": "Mermeladas",
+				"slug": "mermeladas"
+			},
+			{
+				"id": 17,
+				"name": "Todos",
+				"slug": "todos"
+			}
+		],
+		"tags": [
+			{
+				"id": 25,
+				"name": "De la Casa",
+				"slug": "de-la-casa"
+			}
+		],
+		"images": [
+			{
+				"id": 184,
+				"date_created": "2019-08-02T07:29:50",
+				"date_created_gmt": "2019-08-02T13:29:50",
+				"date_modified": "2019-08-02T07:29:59",
+				"date_modified_gmt": "2019-08-02T13:29:59",
+				"src": "https://losangeles.comes.cl/wp-content/uploads/2019/07/RosaMosquetaDLC.jpg",
+				"name": "RosaMosquetaDLC",
+				"alt": "Mermelada de Mosqueta"
+			}
+		],
+		"attributes": [],
+		"default_attributes": [],
+		"variations": [],
+		"grouped_products": [],
+		"menu_order": 0,
+		"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>4,100</bdi></span>",
+		"related_ids": [295, 277, 304, 60, 305],
+		"meta_data": [
+			{
+				"id": 808,
+				"key": "yikes_woo_products_tabs",
+				"value": [
+					{
+						"title": "Información Nutricional",
+						"id": "informacion-nutricional",
+						"content": "<table style=\"color: #000000;\" border=\"0\" width=\"261\" cellspacing=\"0\" cellpadding=\"0\"><colgroup> <col span=\"3\" width=\"87\" /></colgroup>\r\n<tbody>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" width=\"87\" height=\"21\"></td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\" width=\"87\">100 gr</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\" width=\"87\">1 porción</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">energía (kcal)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">232,4</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">34,9</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">proteínas (g)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">0,4</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">0,1</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">grasa total (g)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">1,3</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">0,2</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">H. de Carbono (g)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">5,4</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">8,1</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">Azúcares ttales (g)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">48</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">7,2</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">Sodio (mg)</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">2,5</td>\r\n<td class=\"xl63\" style=\"font-weight: 400; color: black;\">0,4</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+					}
+				]
+			},
+			{
+				"id": 3818,
+				"key": "fb_product_description",
+				"value": ""
+			},
+			{
+				"id": 3820,
+				"key": "_yoast_wpseo_primary_product_cat",
+				"value": "17"
+			},
+			{
+				"id": 3821,
+				"key": "_yoast_wpseo_content_score",
+				"value": "60"
+			},
+			{
+				"id": 105976,
+				"key": "fb_product_item_id",
+				"value": "3164265163662270"
+			},
+			{
+				"id": 165746,
+				"key": "_openpos_product_version_0",
+				"value": "1637699956"
+			},
+			{
+				"id": 169132,
+				"key": "_last_editor_used_jetpack",
+				"value": "classic-editor"
+			},
+			{
+				"id": 169133,
+				"key": "fb_product_group_id",
+				"value": "3164265070328946"
+			},
+			{
+				"id": 169148,
+				"key": "_op_barcode",
+				"value": ""
+			},
+			{
+				"id": 169149,
+				"key": "_op_cost_price",
+				"value": ""
+			},
+			{
+				"id": 169150,
+				"key": "_op_weight_base_pricing",
+				"value": "no"
+			},
+			{
+				"id": 169151,
+				"key": "_wc_facebook_sync_enabled",
+				"value": "yes"
+			},
+			{
+				"id": 169152,
+				"key": "fb_visibility",
+				"value": "yes"
+			},
+			{
+				"id": 169153,
+				"key": "_wc_facebook_product_image_source",
+				"value": "product"
+			},
+			{
+				"id": 169154,
+				"key": "_wc_facebook_commerce_enabled",
+				"value": "no"
+			},
+			{
+				"id": 169155,
+				"key": "_yoast_wpseo_focuskw",
+				"value": "rosa mosqueta"
+			},
+			{
+				"id": 169156,
+				"key": "_yoast_wpseo_linkdex",
+				"value": "39"
+			},
+			{
+				"id": 169157,
+				"key": "_yoast_wpseo_estimated-reading-time-minutes",
+				"value": ""
+			}
+		],
+		"stock_status": "instock",
+		"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Mermelada de Rosa Mosqueta - ComeS Los Ángeles</title>\n<meta name=\"description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/\" />\n<meta property=\"og:locale\" content=\"es_ES\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Mermelada de Rosa Mosqueta - ComeS Los Ángeles\" />\n<meta property=\"og:description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí\" />\n<meta property=\"og:url\" content=\"https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/\" />\n<meta property=\"og:site_name\" content=\"ComeS Los Ángeles\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/ComeS.cl/\" />\n<meta property=\"article:modified_time\" content=\"2021-11-23T20:39:16+00:00\" />\n<meta property=\"og:image\" content=\"https://losangeles.comes.cl/wp-content/uploads/2019/07/RosaMosquetaDLC.jpg\" />\n\t<meta property=\"og:image:width\" content=\"332\" />\n\t<meta property=\"og:image:height\" content=\"332\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://losangeles.comes.cl/#organization\",\"name\":\"ComeS Los \\Ángeles\",\"url\":\"https://losangeles.comes.cl/\",\"sameAs\":[\"https://www.facebook.com/ComeS.cl/\",\"https://www.instagram.com/comes.cl/\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/#logo\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"width\":480,\"height\":480,\"caption\":\"ComeS Los \\Ángeles\"},\"image\":{\"@id\":\"https://losangeles.comes.cl/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://losangeles.comes.cl/#website\",\"url\":\"https://losangeles.comes.cl/\",\"name\":\"ComeS Los \\Ángeles\",\"description\":\"productos locales\",\"publisher\":{\"@id\":\"https://losangeles.comes.cl/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://losangeles.comes.cl/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es\"},{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/#primaryimage\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/RosaMosquetaDLC.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/RosaMosquetaDLC.jpg\",\"width\":332,\"height\":332,\"caption\":\"Mermelada de Mosqueta\"},{\"@type\":\"WebPage\",\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/#webpage\",\"url\":\"https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/\",\"name\":\"Mermelada de Rosa Mosqueta - ComeS Los \\Ángeles\",\"isPartOf\":{\"@id\":\"https://losangeles.comes.cl/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/#primaryimage\"},\"datePublished\":\"2019-07-27T23:12:48+00:00\",\"dateModified\":\"2021-11-23T20:39:16+00:00\",\"description\":\"Productos de peque\\ños productores locales, saludables y sustentables... encu\\éntralos aqu\\í\",\"breadcrumb\":{\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https://losangeles.comes.cl/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Productos\",\"item\":\"https://losangeles.comes.cl/tienda/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Mermelada de Rosa Mosqueta\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+		"yoast_head_json": {
+			"title": "Mermelada de Rosa Mosqueta - ComeS Los Ángeles",
+			"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí",
+			"robots": {
+				"index": "index",
+				"follow": "follow",
+				"max-snippet": "max-snippet:-1",
+				"max-image-preview": "max-image-preview:large",
+				"max-video-preview": "max-video-preview:-1"
+			},
+			"canonical": "https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/",
+			"og_locale": "es_ES",
+			"og_type": "article",
+			"og_title": "Mermelada de Rosa Mosqueta - ComeS Los Ángeles",
+			"og_description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí",
+			"og_url": "https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/",
+			"og_site_name": "ComeS Los Ángeles",
+			"article_publisher": "https://www.facebook.com/ComeS.cl/",
+			"article_modified_time": "2021-11-23T20:39:16+00:00",
+			"og_image": [
+				{
+					"width": 332,
+					"height": 332,
+					"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/RosaMosquetaDLC.jpg",
+					"type": "image/jpeg"
+				}
+			],
+			"twitter_card": "summary_large_image",
+			"schema": {
+				"@context": "https://schema.org",
+				"@graph": [
+					{
+						"@type": "Organization",
+						"@id": "https://losangeles.comes.cl/#organization",
+						"name": "ComeS Los Ángeles",
+						"url": "https://losangeles.comes.cl/",
+						"sameAs": [
+							"https://www.facebook.com/ComeS.cl/",
+							"https://www.instagram.com/comes.cl/"
+						],
+						"logo": {
+							"@type": "ImageObject",
+							"@id": "https://losangeles.comes.cl/#logo",
+							"inLanguage": "es",
+							"url": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"width": 480,
+							"height": 480,
+							"caption": "ComeS Los Ángeles"
+						},
+						"image": {
+							"@id": "https://losangeles.comes.cl/#logo"
+						}
+					},
+					{
+						"@type": "WebSite",
+						"@id": "https://losangeles.comes.cl/#website",
+						"url": "https://losangeles.comes.cl/",
+						"name": "ComeS Los Ángeles",
+						"description": "productos locales",
+						"publisher": {
+							"@id": "https://losangeles.comes.cl/#organization"
+						},
+						"potentialAction": [
+							{
+								"@type": "SearchAction",
+								"target": {
+									"@type": "EntryPoint",
+									"urlTemplate": "https://losangeles.comes.cl/?s={search_term_string}"
+								},
+								"query-input": "required name=search_term_string"
+							}
+						],
+						"inLanguage": "es"
+					},
+					{
+						"@type": "ImageObject",
+						"@id": "https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/#primaryimage",
+						"inLanguage": "es",
+						"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/RosaMosquetaDLC.jpg",
+						"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/07/RosaMosquetaDLC.jpg",
+						"width": 332,
+						"height": 332,
+						"caption": "Mermelada de Mosqueta"
+					},
+					{
+						"@type": "WebPage",
+						"@id": "https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/#webpage",
+						"url": "https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/",
+						"name": "Mermelada de Rosa Mosqueta - ComeS Los Ángeles",
+						"isPartOf": {
+							"@id": "https://losangeles.comes.cl/#website"
+						},
+						"primaryImageOfPage": {
+							"@id": "https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/#primaryimage"
+						},
+						"datePublished": "2019-07-27T23:12:48+00:00",
+						"dateModified": "2021-11-23T20:39:16+00:00",
+						"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí",
+						"breadcrumb": {
+							"@id": "https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/#breadcrumb"
+						},
+						"inLanguage": "es",
+						"potentialAction": [
+							{
+								"@type": "ReadAction",
+								"target": [
+									"https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/"
+								]
+							}
+						]
+					},
+					{
+						"@type": "BreadcrumbList",
+						"@id": "https://losangeles.comes.cl/producto/mermelada-de-rosa-mosqueta/#breadcrumb",
+						"itemListElement": [
+							{
+								"@type": "ListItem",
+								"position": 1,
+								"name": "Portada",
+								"item": "https://losangeles.comes.cl/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 2,
+								"name": "Productos",
+								"item": "https://losangeles.comes.cl/tienda/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 3,
+								"name": "Mermelada de Rosa Mosqueta"
+							}
+						]
+					}
+				]
+			}
+		},
+		"_links": {
+			"self": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products/138"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products"
+				}
+			]
+		}
+	},
+	{
+		"id": 117,
+		"name": "Nueces a la miel",
+		"slug": "nueces-a-la-miel",
+		"permalink": "https://losangeles.comes.cl/producto/nueces-a-la-miel/",
+		"date_created": "2019-07-27T17:36:03",
+		"date_created_gmt": "2019-07-27T20:36:03",
+		"date_modified": "2021-10-26T16:53:11",
+		"date_modified_gmt": "2021-10-26T19:53:11",
+		"type": "variable",
+		"status": "publish",
+		"featured": false,
+		"catalog_visibility": "visible",
+		"description": "<p>Imagina tu yogur natural, tus batidos o crêpes con una cucharada de este delicioso producto.</p>\n<p>Anímate e intenta usarlo para endulzar lo que gustes.</p>\n<p>¿Sabías que nueces a la miel, tiene propiedades medicinales?</p>\n<p>Si, así es!!! Su consumo continuo podría ayudar a regular la glándula de la tiroides gracias a que el selenio de las nueces ayuda a estimular la producción de yodo.</p>\n<p>Así que ya sabes, ¡Llévate el tuyo ahora!</p>\n<p>¡Lo quiero!</p>\n",
+		"short_description": "<p>Presentación: Envase de vidrio</p>\n<p>Productor: <a href=\"https://losangeles.comes.cl/naturel/\">Naturel</a></p>\n",
+		"sku": "",
+		"price": "",
+		"regular_price": "",
+		"sale_price": "",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": false,
+		"purchasable": false,
+		"total_sales": 7,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"external_url": "",
+		"button_text": "",
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": false,
+		"stock_quantity": null,
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"sold_individually": false,
+		"weight": "",
+		"dimensions": {
+			"length": "",
+			"width": "",
+			"height": ""
+		},
+		"shipping_required": true,
+		"shipping_taxable": true,
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"reviews_allowed": true,
+		"average_rating": "0.00",
+		"rating_count": 0,
+		"upsell_ids": [277, 3997, 127, 889],
+		"cross_sell_ids": [6231, 5789, 3282, 2904],
+		"parent_id": 0,
+		"purchase_note": "",
+		"categories": [
+			{
+				"id": 17,
+				"name": "Todos",
+				"slug": "todos"
+			},
+			{
+				"id": 100,
+				"name": "Despacho Express",
+				"slug": "despacho-express"
+			},
+			{
+				"id": 19,
+				"name": "Mieles y derivados",
+				"slug": "mieles"
+			},
+			{
+				"id": 59,
+				"name": "Packs y Regalos",
+				"slug": "regalos"
+			},
+			{
+				"id": 18,
+				"name": "Abarrotes",
+				"slug": "abarrotes"
+			}
+		],
+		"tags": [
+			{
+				"id": 27,
+				"name": "Naturel",
+				"slug": "naturel"
+			}
+		],
+		"images": [
+			{
+				"id": 352,
+				"date_created": "2019-08-19T16:51:43",
+				"date_created_gmt": "2019-08-19T22:51:43",
+				"date_modified": "2019-08-19T16:51:50",
+				"date_modified_gmt": "2019-08-19T22:51:50",
+				"src": "https://losangeles.comes.cl/wp-content/uploads/2019/07/nuecesmielNaturel.jpg",
+				"name": "nuecesmielNaturel",
+				"alt": "nueces a la miel"
+			}
+		],
+		"attributes": [
+			{
+				"id": 0,
+				"name": "gramos",
+				"position": 0,
+				"visible": true,
+				"variation": true,
+				"options": ["250 gramos", "500 gramos"]
+			}
+		],
+		"default_attributes": [],
+		"variations": [118, 119],
+		"grouped_products": [],
+		"menu_order": 0,
+		"price_html": "",
+		"related_ids": [297, 304, 58, 280, 575],
+		"meta_data": [
+			{
+				"id": 680,
+				"key": "yikes_woo_products_tabs",
+				"value": [
+					{
+						"title": "Información Nutricional",
+						"id": "informacion-nutricional",
+						"content": ""
+					}
+				]
+			},
+			{
+				"id": 3926,
+				"key": "fb_product_description",
+				"value": ""
+			},
+			{
+				"id": 3927,
+				"key": "fb_image",
+				"value": ""
+			},
+			{
+				"id": 3929,
+				"key": "_yoast_wpseo_primary_product_cat",
+				"value": "17"
+			},
+			{
+				"id": 3930,
+				"key": "_yoast_wpseo_content_score",
+				"value": "90"
+			},
+			{
+				"id": 91684,
+				"key": "fb_product_group_id",
+				"value": "4300587673344599"
+			},
+			{
+				"id": 166778,
+				"key": "_last_editor_used_jetpack",
+				"value": "classic-editor"
+			},
+			{
+				"id": 166814,
+				"key": "_op_barcode",
+				"value": ""
+			},
+			{
+				"id": 166815,
+				"key": "_op_cost_price",
+				"value": ""
+			},
+			{
+				"id": 166816,
+				"key": "_op_weight_base_pricing",
+				"value": "no"
+			},
+			{
+				"id": 166817,
+				"key": "_openpos_product_version_0",
+				"value": "1635277991"
+			},
+			{
+				"id": 166818,
+				"key": "_wc_facebook_commerce_enabled",
+				"value": "no"
+			},
+			{
+				"id": 166819,
+				"key": "_yoast_wpseo_focuskw",
+				"value": "miel con nueces"
+			},
+			{
+				"id": 166820,
+				"key": "_yoast_wpseo_metadesc",
+				"value": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la miel con nueces de naturel"
+			},
+			{
+				"id": 166821,
+				"key": "_yoast_wpseo_linkdex",
+				"value": "41"
+			},
+			{
+				"id": 166822,
+				"key": "_yoast_wpseo_estimated-reading-time-minutes",
+				"value": ""
+			}
+		],
+		"stock_status": "outofstock",
+		"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Nueces a la miel - ComeS Los Ángeles</title>\n<meta name=\"description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la miel con nueces de naturel\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://losangeles.comes.cl/producto/nueces-a-la-miel/\" />\n<meta property=\"og:locale\" content=\"es_ES\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Nueces a la miel - ComeS Los Ángeles\" />\n<meta property=\"og:description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la miel con nueces de naturel\" />\n<meta property=\"og:url\" content=\"https://losangeles.comes.cl/producto/nueces-a-la-miel/\" />\n<meta property=\"og:site_name\" content=\"ComeS Los Ángeles\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/ComeS.cl/\" />\n<meta property=\"article:modified_time\" content=\"2021-10-26T19:53:11+00:00\" />\n<meta property=\"og:image\" content=\"https://losangeles.comes.cl/wp-content/uploads/2019/07/nuecesmielNaturel.jpg\" />\n\t<meta property=\"og:image:width\" content=\"332\" />\n\t<meta property=\"og:image:height\" content=\"332\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://losangeles.comes.cl/#organization\",\"name\":\"ComeS Los \\Ángeles\",\"url\":\"https://losangeles.comes.cl/\",\"sameAs\":[\"https://www.facebook.com/ComeS.cl/\",\"https://www.instagram.com/comes.cl/\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/#logo\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"width\":480,\"height\":480,\"caption\":\"ComeS Los \\Ángeles\"},\"image\":{\"@id\":\"https://losangeles.comes.cl/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://losangeles.comes.cl/#website\",\"url\":\"https://losangeles.comes.cl/\",\"name\":\"ComeS Los \\Ángeles\",\"description\":\"productos locales\",\"publisher\":{\"@id\":\"https://losangeles.comes.cl/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://losangeles.comes.cl/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es\"},{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/producto/nueces-a-la-miel/#primaryimage\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/nuecesmielNaturel.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/nuecesmielNaturel.jpg\",\"width\":332,\"height\":332,\"caption\":\"nueces a la miel\"},{\"@type\":\"WebPage\",\"@id\":\"https://losangeles.comes.cl/producto/nueces-a-la-miel/#webpage\",\"url\":\"https://losangeles.comes.cl/producto/nueces-a-la-miel/\",\"name\":\"Nueces a la miel - ComeS Los \\Ángeles\",\"isPartOf\":{\"@id\":\"https://losangeles.comes.cl/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://losangeles.comes.cl/producto/nueces-a-la-miel/#primaryimage\"},\"datePublished\":\"2019-07-27T20:36:03+00:00\",\"dateModified\":\"2021-10-26T19:53:11+00:00\",\"description\":\"Productos de peque\\ños productores locales, saludables y sustentables... encu\\éntralos aqu\\í, como la miel con nueces de naturel\",\"breadcrumb\":{\"@id\":\"https://losangeles.comes.cl/producto/nueces-a-la-miel/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://losangeles.comes.cl/producto/nueces-a-la-miel/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://losangeles.comes.cl/producto/nueces-a-la-miel/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https://losangeles.comes.cl/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Productos\",\"item\":\"https://losangeles.comes.cl/tienda/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Nueces a la miel\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+		"yoast_head_json": {
+			"title": "Nueces a la miel - ComeS Los Ángeles",
+			"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la miel con nueces de naturel",
+			"robots": {
+				"index": "index",
+				"follow": "follow",
+				"max-snippet": "max-snippet:-1",
+				"max-image-preview": "max-image-preview:large",
+				"max-video-preview": "max-video-preview:-1"
+			},
+			"canonical": "https://losangeles.comes.cl/producto/nueces-a-la-miel/",
+			"og_locale": "es_ES",
+			"og_type": "article",
+			"og_title": "Nueces a la miel - ComeS Los Ángeles",
+			"og_description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la miel con nueces de naturel",
+			"og_url": "https://losangeles.comes.cl/producto/nueces-a-la-miel/",
+			"og_site_name": "ComeS Los Ángeles",
+			"article_publisher": "https://www.facebook.com/ComeS.cl/",
+			"article_modified_time": "2021-10-26T19:53:11+00:00",
+			"og_image": [
+				{
+					"width": 332,
+					"height": 332,
+					"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/nuecesmielNaturel.jpg",
+					"type": "image/jpeg"
+				}
+			],
+			"twitter_card": "summary_large_image",
+			"schema": {
+				"@context": "https://schema.org",
+				"@graph": [
+					{
+						"@type": "Organization",
+						"@id": "https://losangeles.comes.cl/#organization",
+						"name": "ComeS Los Ángeles",
+						"url": "https://losangeles.comes.cl/",
+						"sameAs": [
+							"https://www.facebook.com/ComeS.cl/",
+							"https://www.instagram.com/comes.cl/"
+						],
+						"logo": {
+							"@type": "ImageObject",
+							"@id": "https://losangeles.comes.cl/#logo",
+							"inLanguage": "es",
+							"url": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"width": 480,
+							"height": 480,
+							"caption": "ComeS Los Ángeles"
+						},
+						"image": {
+							"@id": "https://losangeles.comes.cl/#logo"
+						}
+					},
+					{
+						"@type": "WebSite",
+						"@id": "https://losangeles.comes.cl/#website",
+						"url": "https://losangeles.comes.cl/",
+						"name": "ComeS Los Ángeles",
+						"description": "productos locales",
+						"publisher": {
+							"@id": "https://losangeles.comes.cl/#organization"
+						},
+						"potentialAction": [
+							{
+								"@type": "SearchAction",
+								"target": {
+									"@type": "EntryPoint",
+									"urlTemplate": "https://losangeles.comes.cl/?s={search_term_string}"
+								},
+								"query-input": "required name=search_term_string"
+							}
+						],
+						"inLanguage": "es"
+					},
+					{
+						"@type": "ImageObject",
+						"@id": "https://losangeles.comes.cl/producto/nueces-a-la-miel/#primaryimage",
+						"inLanguage": "es",
+						"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/nuecesmielNaturel.jpg",
+						"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/07/nuecesmielNaturel.jpg",
+						"width": 332,
+						"height": 332,
+						"caption": "nueces a la miel"
+					},
+					{
+						"@type": "WebPage",
+						"@id": "https://losangeles.comes.cl/producto/nueces-a-la-miel/#webpage",
+						"url": "https://losangeles.comes.cl/producto/nueces-a-la-miel/",
+						"name": "Nueces a la miel - ComeS Los Ángeles",
+						"isPartOf": {
+							"@id": "https://losangeles.comes.cl/#website"
+						},
+						"primaryImageOfPage": {
+							"@id": "https://losangeles.comes.cl/producto/nueces-a-la-miel/#primaryimage"
+						},
+						"datePublished": "2019-07-27T20:36:03+00:00",
+						"dateModified": "2021-10-26T19:53:11+00:00",
+						"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la miel con nueces de naturel",
+						"breadcrumb": {
+							"@id": "https://losangeles.comes.cl/producto/nueces-a-la-miel/#breadcrumb"
+						},
+						"inLanguage": "es",
+						"potentialAction": [
+							{
+								"@type": "ReadAction",
+								"target": [
+									"https://losangeles.comes.cl/producto/nueces-a-la-miel/"
+								]
+							}
+						]
+					},
+					{
+						"@type": "BreadcrumbList",
+						"@id": "https://losangeles.comes.cl/producto/nueces-a-la-miel/#breadcrumb",
+						"itemListElement": [
+							{
+								"@type": "ListItem",
+								"position": 1,
+								"name": "Portada",
+								"item": "https://losangeles.comes.cl/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 2,
+								"name": "Productos",
+								"item": "https://losangeles.comes.cl/tienda/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 3,
+								"name": "Nueces a la miel"
+							}
+						]
+					}
+				]
+			}
+		},
+		"_links": {
+			"self": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products/117"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products"
+				}
+			]
+		}
+	},
+	{
+		"id": 62,
+		"name": "Pan 100% Integral con Semillas",
+		"slug": "pan-100-integral-con-semillas",
+		"permalink": "https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/",
+		"date_created": "2019-07-14T14:17:25",
+		"date_created_gmt": "2019-07-14T17:17:25",
+		"date_modified": "2020-08-28T11:40:16",
+		"date_modified_gmt": "2020-08-28T14:40:16",
+		"type": "simple",
+		"status": "publish",
+		"featured": false,
+		"catalog_visibility": "visible",
+		"description": "<p>Pan Integral con semillas, preparado a mano, sin grasas de origen animal, sin leche, sin huevo. Éste pan integral, es sabroso, de rebanadas contundentes, y no contiene preservantes, puede durar 7 días manteniéndolo en lugar fresco o refrigerado.</p>\n<p>Viene Rebanado, Contiene gluten.</p>\n",
+		"short_description": "<p>Presentación: 850 gramos aprox.</p>\n<p>Productor: <a href=\"https://losangeles.comes.cl/liliana-rivero-espinoza/\">De La Casa</a></p>\n",
+		"sku": "",
+		"price": "2200",
+		"regular_price": "2200",
+		"sale_price": "",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": false,
+		"purchasable": true,
+		"total_sales": 288,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"external_url": "",
+		"button_text": "",
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": true,
+		"stock_quantity": 0,
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"sold_individually": false,
+		"weight": "",
+		"dimensions": {
+			"length": "",
+			"width": "",
+			"height": ""
+		},
+		"shipping_required": true,
+		"shipping_taxable": true,
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"reviews_allowed": true,
+		"average_rating": "0.00",
+		"rating_count": 0,
+		"upsell_ids": [],
+		"cross_sell_ids": [],
+		"parent_id": 0,
+		"purchase_note": "",
+		"categories": [
+			{
+				"id": 51,
+				"name": "Panadería y Pastelería",
+				"slug": "panaderia"
+			},
+			{
+				"id": 17,
+				"name": "Todos",
+				"slug": "todos"
+			}
+		],
+		"tags": [
+			{
+				"id": 25,
+				"name": "De la Casa",
+				"slug": "de-la-casa"
+			}
+		],
+		"images": [
+			{
+				"id": 336,
+				"date_created": "2019-08-19T15:29:05",
+				"date_created_gmt": "2019-08-19T21:29:05",
+				"date_modified": "2019-08-19T15:29:12",
+				"date_modified_gmt": "2019-08-19T21:29:12",
+				"src": "https://losangeles.comes.cl/wp-content/uploads/2019/07/PanIntegralDLC.jpg",
+				"name": "PanIntegralDLC",
+				"alt": "pan integral"
+			}
+		],
+		"attributes": [],
+		"default_attributes": [],
+		"variations": [],
+		"grouped_products": [],
+		"menu_order": 0,
+		"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>2,200</bdi></span>",
+		"related_ids": [298, 277, 293, 138, 269],
+		"meta_data": [
+			{
+				"id": 952,
+				"key": "yikes_woo_products_tabs",
+				"value": []
+			},
+			{
+				"id": 3954,
+				"key": "fb_product_description",
+				"value": ""
+			},
+			{
+				"id": 3956,
+				"key": "_yoast_wpseo_primary_product_cat",
+				"value": "17"
+			},
+			{
+				"id": 3957,
+				"key": "_yoast_wpseo_content_score",
+				"value": "60"
+			},
+			{
+				"id": 4055,
+				"key": "_yoast_wpseo_focuskw",
+				"value": "pan integral"
+			},
+			{
+				"id": 4056,
+				"key": "_yoast_wpseo_metadesc",
+				"value": "Pan Integral con semillas, preparado a mano, sin grasas de origen animal, sin leche, sin huevo. Éste pan integral, es sabroso, de rebanadas contundentes..."
+			},
+			{
+				"id": 4057,
+				"key": "_yoast_wpseo_linkdex",
+				"value": "45"
+			},
+			{
+				"id": 24757,
+				"key": "_wc_facebook_sync_enabled",
+				"value": "yes"
+			},
+			{
+				"id": 24758,
+				"key": "_wc_facebook_product_image_source",
+				"value": "product"
+			},
+			{
+				"id": 92334,
+				"key": "fb_product_group_id",
+				"value": "3227998030587383"
+			},
+			{
+				"id": 92335,
+				"key": "fb_product_item_id",
+				"value": "3227998080587378"
+			}
+		],
+		"stock_status": "outofstock",
+		"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Pan 100% Integral con Semillas - ComeS Los Ángeles</title>\n<meta name=\"description\" content=\"Pan Integral con semillas, preparado a mano, sin grasas de origen animal, sin leche, sin huevo. Éste pan integral, es sabroso, de rebanadas contundentes...\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/\" />\n<meta property=\"og:locale\" content=\"es_ES\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Pan 100% Integral con Semillas - ComeS Los Ángeles\" />\n<meta property=\"og:description\" content=\"Pan Integral con semillas, preparado a mano, sin grasas de origen animal, sin leche, sin huevo. Éste pan integral, es sabroso, de rebanadas contundentes...\" />\n<meta property=\"og:url\" content=\"https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/\" />\n<meta property=\"og:site_name\" content=\"ComeS Los Ángeles\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/ComeS.cl/\" />\n<meta property=\"article:modified_time\" content=\"2020-08-28T14:40:16+00:00\" />\n<meta property=\"og:image\" content=\"https://losangeles.comes.cl/wp-content/uploads/2019/07/PanIntegralDLC.jpg\" />\n\t<meta property=\"og:image:width\" content=\"332\" />\n\t<meta property=\"og:image:height\" content=\"332\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://losangeles.comes.cl/#organization\",\"name\":\"ComeS Los \\Ángeles\",\"url\":\"https://losangeles.comes.cl/\",\"sameAs\":[\"https://www.facebook.com/ComeS.cl/\",\"https://www.instagram.com/comes.cl/\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/#logo\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"width\":480,\"height\":480,\"caption\":\"ComeS Los \\Ángeles\"},\"image\":{\"@id\":\"https://losangeles.comes.cl/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://losangeles.comes.cl/#website\",\"url\":\"https://losangeles.comes.cl/\",\"name\":\"ComeS Los \\Ángeles\",\"description\":\"productos locales\",\"publisher\":{\"@id\":\"https://losangeles.comes.cl/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://losangeles.comes.cl/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es\"},{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/#primaryimage\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/PanIntegralDLC.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/PanIntegralDLC.jpg\",\"width\":332,\"height\":332,\"caption\":\"pan integral\"},{\"@type\":\"WebPage\",\"@id\":\"https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/#webpage\",\"url\":\"https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/\",\"name\":\"Pan 100% Integral con Semillas - ComeS Los \\Ángeles\",\"isPartOf\":{\"@id\":\"https://losangeles.comes.cl/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/#primaryimage\"},\"datePublished\":\"2019-07-14T17:17:25+00:00\",\"dateModified\":\"2020-08-28T14:40:16+00:00\",\"description\":\"Pan Integral con semillas, preparado a mano, sin grasas de origen animal, sin leche, sin huevo. \\Éste pan integral, es sabroso, de rebanadas contundentes...\",\"breadcrumb\":{\"@id\":\"https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https://losangeles.comes.cl/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Productos\",\"item\":\"https://losangeles.comes.cl/tienda/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Pan 100% Integral con Semillas\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+		"yoast_head_json": {
+			"title": "Pan 100% Integral con Semillas - ComeS Los Ángeles",
+			"description": "Pan Integral con semillas, preparado a mano, sin grasas de origen animal, sin leche, sin huevo. Éste pan integral, es sabroso, de rebanadas contundentes...",
+			"robots": {
+				"index": "index",
+				"follow": "follow",
+				"max-snippet": "max-snippet:-1",
+				"max-image-preview": "max-image-preview:large",
+				"max-video-preview": "max-video-preview:-1"
+			},
+			"canonical": "https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/",
+			"og_locale": "es_ES",
+			"og_type": "article",
+			"og_title": "Pan 100% Integral con Semillas - ComeS Los Ángeles",
+			"og_description": "Pan Integral con semillas, preparado a mano, sin grasas de origen animal, sin leche, sin huevo. Éste pan integral, es sabroso, de rebanadas contundentes...",
+			"og_url": "https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/",
+			"og_site_name": "ComeS Los Ángeles",
+			"article_publisher": "https://www.facebook.com/ComeS.cl/",
+			"article_modified_time": "2020-08-28T14:40:16+00:00",
+			"og_image": [
+				{
+					"width": 332,
+					"height": 332,
+					"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/PanIntegralDLC.jpg",
+					"type": "image/jpeg"
+				}
+			],
+			"twitter_card": "summary_large_image",
+			"schema": {
+				"@context": "https://schema.org",
+				"@graph": [
+					{
+						"@type": "Organization",
+						"@id": "https://losangeles.comes.cl/#organization",
+						"name": "ComeS Los Ángeles",
+						"url": "https://losangeles.comes.cl/",
+						"sameAs": [
+							"https://www.facebook.com/ComeS.cl/",
+							"https://www.instagram.com/comes.cl/"
+						],
+						"logo": {
+							"@type": "ImageObject",
+							"@id": "https://losangeles.comes.cl/#logo",
+							"inLanguage": "es",
+							"url": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"width": 480,
+							"height": 480,
+							"caption": "ComeS Los Ángeles"
+						},
+						"image": {
+							"@id": "https://losangeles.comes.cl/#logo"
+						}
+					},
+					{
+						"@type": "WebSite",
+						"@id": "https://losangeles.comes.cl/#website",
+						"url": "https://losangeles.comes.cl/",
+						"name": "ComeS Los Ángeles",
+						"description": "productos locales",
+						"publisher": {
+							"@id": "https://losangeles.comes.cl/#organization"
+						},
+						"potentialAction": [
+							{
+								"@type": "SearchAction",
+								"target": {
+									"@type": "EntryPoint",
+									"urlTemplate": "https://losangeles.comes.cl/?s={search_term_string}"
+								},
+								"query-input": "required name=search_term_string"
+							}
+						],
+						"inLanguage": "es"
+					},
+					{
+						"@type": "ImageObject",
+						"@id": "https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/#primaryimage",
+						"inLanguage": "es",
+						"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/PanIntegralDLC.jpg",
+						"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/07/PanIntegralDLC.jpg",
+						"width": 332,
+						"height": 332,
+						"caption": "pan integral"
+					},
+					{
+						"@type": "WebPage",
+						"@id": "https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/#webpage",
+						"url": "https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/",
+						"name": "Pan 100% Integral con Semillas - ComeS Los Ángeles",
+						"isPartOf": {
+							"@id": "https://losangeles.comes.cl/#website"
+						},
+						"primaryImageOfPage": {
+							"@id": "https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/#primaryimage"
+						},
+						"datePublished": "2019-07-14T17:17:25+00:00",
+						"dateModified": "2020-08-28T14:40:16+00:00",
+						"description": "Pan Integral con semillas, preparado a mano, sin grasas de origen animal, sin leche, sin huevo. Éste pan integral, es sabroso, de rebanadas contundentes...",
+						"breadcrumb": {
+							"@id": "https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/#breadcrumb"
+						},
+						"inLanguage": "es",
+						"potentialAction": [
+							{
+								"@type": "ReadAction",
+								"target": [
+									"https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/"
+								]
+							}
+						]
+					},
+					{
+						"@type": "BreadcrumbList",
+						"@id": "https://losangeles.comes.cl/producto/pan-100-integral-con-semillas/#breadcrumb",
+						"itemListElement": [
+							{
+								"@type": "ListItem",
+								"position": 1,
+								"name": "Portada",
+								"item": "https://losangeles.comes.cl/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 2,
+								"name": "Productos",
+								"item": "https://losangeles.comes.cl/tienda/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 3,
+								"name": "Pan 100% Integral con Semillas"
+							}
+						]
+					}
+				]
+			}
+		},
+		"_links": {
+			"self": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products/62"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products"
+				}
+			]
+		}
+	},
+	{
+		"id": 60,
+		"name": "Miel Multifloral 1 kilo",
+		"slug": "miel-1-kilo",
+		"permalink": "https://losangeles.comes.cl/producto/miel-1-kilo/",
+		"date_created": "2019-07-14T14:07:19",
+		"date_created_gmt": "2019-07-14T17:07:19",
+		"date_modified": "2021-10-20T14:12:02",
+		"date_modified_gmt": "2021-10-20T17:12:02",
+		"type": "simple",
+		"status": "publish",
+		"featured": false,
+		"catalog_visibility": "visible",
+		"description": "<p>Miles de abejas trabajaron esta temporada para producir esta miel dorada y suave.</p>\n<p>&nbsp;</p>\n<p>Don Patricio y su señora Patricia, cuidaron de estas incansables trabajadoras cumpliendo con todas las normas que exige el SAG y la exportación a la comunidad europea, sin embargo, quieren que se quede aquí­, en su comunidad, llegando a las mesas de muchos angelinos y aportando con sus nutrientes al bienestar de las familias.</p>\n<p>&nbsp;</p>\n<p>Te aseguramos que al igual que todas las mieles que encuentras en ComeS, ésta es 100% natural.</p>\n<p>&nbsp;</p>\n",
+		"short_description": "<p>Presentación: Pote 1 kilo</p>\n<p>Productor: <a href=\"https://losangeles.comes.cl/patricio-beltran-cabezas\">Patricio Beltran Cabezas</a></p>\n",
+		"sku": "",
+		"price": "5700",
+		"regular_price": "5700",
+		"sale_price": "",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": false,
+		"purchasable": true,
+		"total_sales": 56,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"external_url": "",
+		"button_text": "",
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": true,
+		"stock_quantity": 1,
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"sold_individually": false,
+		"weight": "",
+		"dimensions": {
+			"length": "",
+			"width": "",
+			"height": ""
+		},
+		"shipping_required": true,
+		"shipping_taxable": true,
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"reviews_allowed": true,
+		"average_rating": "0.00",
+		"rating_count": 0,
+		"upsell_ids": [5236, 889, 901],
+		"cross_sell_ids": [7292, 8481, 8005],
+		"parent_id": 0,
+		"purchase_note": "",
+		"categories": [
+			{
+				"id": 100,
+				"name": "Despacho Express",
+				"slug": "despacho-express"
+			},
+			{
+				"id": 19,
+				"name": "Mieles y derivados",
+				"slug": "mieles"
+			},
+			{
+				"id": 17,
+				"name": "Todos",
+				"slug": "todos"
+			}
+		],
+		"tags": [
+			{
+				"id": 24,
+				"name": "Patricio Beltran Cabezas",
+				"slug": "patricio-beltran-cabezas"
+			}
+		],
+		"images": [
+			{
+				"id": 111,
+				"date_created": "2019-07-26T18:39:05",
+				"date_created_gmt": "2019-07-27T00:39:05",
+				"date_modified": "2019-07-26T18:39:05",
+				"date_modified_gmt": "2019-07-27T00:39:05",
+				"src": "https://losangeles.comes.cl/wp-content/uploads/2019/07/mielcuadro.jpg",
+				"name": "mielcuadro",
+				"alt": ""
+			},
+			{
+				"id": 124,
+				"date_created": "2019-07-27T14:56:23",
+				"date_created_gmt": "2019-07-27T20:56:23",
+				"date_modified": "2019-07-27T14:56:23",
+				"date_modified_gmt": "2019-07-27T20:56:23",
+				"src": "https://losangeles.comes.cl/wp-content/uploads/2019/07/027.jpg",
+				"name": "027",
+				"alt": ""
+			},
+			{
+				"id": 125,
+				"date_created": "2019-07-27T14:56:43",
+				"date_created_gmt": "2019-07-27T20:56:43",
+				"date_modified": "2019-07-27T14:56:43",
+				"date_modified_gmt": "2019-07-27T20:56:43",
+				"src": "https://losangeles.comes.cl/wp-content/uploads/2019/07/025.jpg",
+				"name": "025",
+				"alt": ""
+			},
+			{
+				"id": 126,
+				"date_created": "2019-07-27T14:56:59",
+				"date_created_gmt": "2019-07-27T20:56:59",
+				"date_modified": "2019-07-27T14:56:59",
+				"date_modified_gmt": "2019-07-27T20:56:59",
+				"src": "https://losangeles.comes.cl/wp-content/uploads/2019/07/029.jpg",
+				"name": "029",
+				"alt": ""
+			}
+		],
+		"attributes": [],
+		"default_attributes": [],
+		"variations": [],
+		"grouped_products": [],
+		"menu_order": 0,
+		"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>5,700</bdi></span>",
+		"related_ids": [575, 287, 138, 129, 134],
+		"meta_data": [
+			{
+				"id": 905,
+				"key": "yikes_woo_products_tabs",
+				"value": [
+					{
+						"title": "Información Nutricional",
+						"id": "informacion-nutricional",
+						"content": "<table style=\"color: #000000;\" border=\"0\" width=\"241\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col width=\"144\" /><col width=\"97\" /></colgroup>\r\n<tbody>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" width=\"144\" height=\"21\">Porción:</td>\r\n<td style=\"font-weight: 400; color: black;\" width=\"97\">1 cucharadita</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\"></td>\r\n<td style=\"font-weight: 400; color: black;\"></td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">Energía (Kcal)</td>\r\n<td style=\"font-weight: 400; color: black;\" align=\"right\">64</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">Proteína (g)</td>\r\n<td style=\"font-weight: 400; color: black;\" align=\"right\">0,06</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">Grasa Total (g)</td>\r\n<td style=\"font-weight: 400; color: black;\" align=\"right\">0</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">H. de C. disponible</td>\r\n<td style=\"font-weight: 400; color: black;\" align=\"right\">17,3</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">Colesterol (mg)</td>\r\n<td style=\"font-weight: 400; color: black;\" align=\"right\">0</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">Sodio (mg)</td>\r\n<td style=\"font-weight: 400; color: black;\" align=\"right\">1</td>\r\n</tr>\r\n<tr>\r\n<td style=\"font-weight: 400; color: black;\" height=\"21\">Potasio (mg)</td>\r\n<td style=\"font-weight: 400; color: black;\" align=\"right\">11</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+					}
+				]
+			},
+			{
+				"id": 5156,
+				"key": "fb_product_description",
+				"value": ""
+			},
+			{
+				"id": 5158,
+				"key": "_yoast_wpseo_primary_product_cat",
+				"value": "17"
+			},
+			{
+				"id": 5159,
+				"key": "_yoast_wpseo_content_score",
+				"value": "60"
+			},
+			{
+				"id": 247433,
+				"key": "_last_editor_used_jetpack",
+				"value": "classic-editor"
+			},
+			{
+				"id": 247480,
+				"key": "_op_barcode",
+				"value": ""
+			},
+			{
+				"id": 247481,
+				"key": "_op_cost_price",
+				"value": ""
+			},
+			{
+				"id": 247482,
+				"key": "_op_weight_base_pricing",
+				"value": "no"
+			},
+			{
+				"id": 247485,
+				"key": "_openpos_product_version_0",
+				"value": "1634749923"
+			},
+			{
+				"id": 247486,
+				"key": "_wc_facebook_sync_enabled",
+				"value": "yes"
+			},
+			{
+				"id": 247487,
+				"key": "fb_visibility",
+				"value": "yes"
+			},
+			{
+				"id": 247488,
+				"key": "_wc_facebook_product_image_source",
+				"value": "product"
+			},
+			{
+				"id": 247489,
+				"key": "_wc_facebook_commerce_enabled",
+				"value": "no"
+			},
+			{
+				"id": 247490,
+				"key": "fb_product_group_id",
+				"value": "4072960842821274"
+			},
+			{
+				"id": 247491,
+				"key": "fb_product_item_id",
+				"value": "4072960892821269"
+			},
+			{
+				"id": 247492,
+				"key": "_yoast_wpseo_focuskw",
+				"value": "miel multifloral 1 kilo"
+			},
+			{
+				"id": 247493,
+				"key": "_yoast_wpseo_metadesc",
+				"value": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la miel multifloral del Biobío"
+			},
+			{
+				"id": 247494,
+				"key": "_yoast_wpseo_linkdex",
+				"value": "36"
+			},
+			{
+				"id": 247495,
+				"key": "_yoast_wpseo_estimated-reading-time-minutes",
+				"value": "1"
+			}
+		],
+		"stock_status": "instock",
+		"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Miel Multifloral 1 kilo - ComeS Los Ángeles</title>\n<meta name=\"description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la miel multifloral del Biobío\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://losangeles.comes.cl/producto/miel-1-kilo/\" />\n<meta property=\"og:locale\" content=\"es_ES\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Miel Multifloral 1 kilo - ComeS Los Ángeles\" />\n<meta property=\"og:description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la miel multifloral del Biobío\" />\n<meta property=\"og:url\" content=\"https://losangeles.comes.cl/producto/miel-1-kilo/\" />\n<meta property=\"og:site_name\" content=\"ComeS Los Ángeles\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/ComeS.cl/\" />\n<meta property=\"article:modified_time\" content=\"2021-10-20T17:12:02+00:00\" />\n<meta property=\"og:image\" content=\"https://losangeles.comes.cl/wp-content/uploads/2019/07/mielcuadro.jpg\" />\n\t<meta property=\"og:image:width\" content=\"332\" />\n\t<meta property=\"og:image:height\" content=\"332\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Tiempo de lectura\" />\n\t<meta name=\"twitter:data1\" content=\"1 minuto\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://losangeles.comes.cl/#organization\",\"name\":\"ComeS Los \\Ángeles\",\"url\":\"https://losangeles.comes.cl/\",\"sameAs\":[\"https://www.facebook.com/ComeS.cl/\",\"https://www.instagram.com/comes.cl/\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/#logo\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"width\":480,\"height\":480,\"caption\":\"ComeS Los \\Ángeles\"},\"image\":{\"@id\":\"https://losangeles.comes.cl/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://losangeles.comes.cl/#website\",\"url\":\"https://losangeles.comes.cl/\",\"name\":\"ComeS Los \\Ángeles\",\"description\":\"productos locales\",\"publisher\":{\"@id\":\"https://losangeles.comes.cl/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://losangeles.comes.cl/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es\"},{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/producto/miel-1-kilo/#primaryimage\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/mielcuadro.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/mielcuadro.jpg\",\"width\":332,\"height\":332},{\"@type\":\"WebPage\",\"@id\":\"https://losangeles.comes.cl/producto/miel-1-kilo/#webpage\",\"url\":\"https://losangeles.comes.cl/producto/miel-1-kilo/\",\"name\":\"Miel Multifloral 1 kilo - ComeS Los \\Ángeles\",\"isPartOf\":{\"@id\":\"https://losangeles.comes.cl/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://losangeles.comes.cl/producto/miel-1-kilo/#primaryimage\"},\"datePublished\":\"2019-07-14T17:07:19+00:00\",\"dateModified\":\"2021-10-20T17:12:02+00:00\",\"description\":\"Productos de peque\\ños productores locales, saludables y sustentables... encu\\éntralos aqu\\í, como la miel multifloral del Biob\\ío\",\"breadcrumb\":{\"@id\":\"https://losangeles.comes.cl/producto/miel-1-kilo/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://losangeles.comes.cl/producto/miel-1-kilo/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://losangeles.comes.cl/producto/miel-1-kilo/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https://losangeles.comes.cl/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Productos\",\"item\":\"https://losangeles.comes.cl/tienda/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Miel Multifloral 1 kilo\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+		"yoast_head_json": {
+			"title": "Miel Multifloral 1 kilo - ComeS Los Ángeles",
+			"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la miel multifloral del Biobío",
+			"robots": {
+				"index": "index",
+				"follow": "follow",
+				"max-snippet": "max-snippet:-1",
+				"max-image-preview": "max-image-preview:large",
+				"max-video-preview": "max-video-preview:-1"
+			},
+			"canonical": "https://losangeles.comes.cl/producto/miel-1-kilo/",
+			"og_locale": "es_ES",
+			"og_type": "article",
+			"og_title": "Miel Multifloral 1 kilo - ComeS Los Ángeles",
+			"og_description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la miel multifloral del Biobío",
+			"og_url": "https://losangeles.comes.cl/producto/miel-1-kilo/",
+			"og_site_name": "ComeS Los Ángeles",
+			"article_publisher": "https://www.facebook.com/ComeS.cl/",
+			"article_modified_time": "2021-10-20T17:12:02+00:00",
+			"og_image": [
+				{
+					"width": 332,
+					"height": 332,
+					"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/mielcuadro.jpg",
+					"type": "image/jpeg"
+				}
+			],
+			"twitter_card": "summary_large_image",
+			"twitter_misc": {
+				"Tiempo de lectura": "1 minuto"
+			},
+			"schema": {
+				"@context": "https://schema.org",
+				"@graph": [
+					{
+						"@type": "Organization",
+						"@id": "https://losangeles.comes.cl/#organization",
+						"name": "ComeS Los Ángeles",
+						"url": "https://losangeles.comes.cl/",
+						"sameAs": [
+							"https://www.facebook.com/ComeS.cl/",
+							"https://www.instagram.com/comes.cl/"
+						],
+						"logo": {
+							"@type": "ImageObject",
+							"@id": "https://losangeles.comes.cl/#logo",
+							"inLanguage": "es",
+							"url": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"width": 480,
+							"height": 480,
+							"caption": "ComeS Los Ángeles"
+						},
+						"image": {
+							"@id": "https://losangeles.comes.cl/#logo"
+						}
+					},
+					{
+						"@type": "WebSite",
+						"@id": "https://losangeles.comes.cl/#website",
+						"url": "https://losangeles.comes.cl/",
+						"name": "ComeS Los Ángeles",
+						"description": "productos locales",
+						"publisher": {
+							"@id": "https://losangeles.comes.cl/#organization"
+						},
+						"potentialAction": [
+							{
+								"@type": "SearchAction",
+								"target": {
+									"@type": "EntryPoint",
+									"urlTemplate": "https://losangeles.comes.cl/?s={search_term_string}"
+								},
+								"query-input": "required name=search_term_string"
+							}
+						],
+						"inLanguage": "es"
+					},
+					{
+						"@type": "ImageObject",
+						"@id": "https://losangeles.comes.cl/producto/miel-1-kilo/#primaryimage",
+						"inLanguage": "es",
+						"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/mielcuadro.jpg",
+						"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/07/mielcuadro.jpg",
+						"width": 332,
+						"height": 332
+					},
+					{
+						"@type": "WebPage",
+						"@id": "https://losangeles.comes.cl/producto/miel-1-kilo/#webpage",
+						"url": "https://losangeles.comes.cl/producto/miel-1-kilo/",
+						"name": "Miel Multifloral 1 kilo - ComeS Los Ángeles",
+						"isPartOf": {
+							"@id": "https://losangeles.comes.cl/#website"
+						},
+						"primaryImageOfPage": {
+							"@id": "https://losangeles.comes.cl/producto/miel-1-kilo/#primaryimage"
+						},
+						"datePublished": "2019-07-14T17:07:19+00:00",
+						"dateModified": "2021-10-20T17:12:02+00:00",
+						"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como la miel multifloral del Biobío",
+						"breadcrumb": {
+							"@id": "https://losangeles.comes.cl/producto/miel-1-kilo/#breadcrumb"
+						},
+						"inLanguage": "es",
+						"potentialAction": [
+							{
+								"@type": "ReadAction",
+								"target": [
+									"https://losangeles.comes.cl/producto/miel-1-kilo/"
+								]
+							}
+						]
+					},
+					{
+						"@type": "BreadcrumbList",
+						"@id": "https://losangeles.comes.cl/producto/miel-1-kilo/#breadcrumb",
+						"itemListElement": [
+							{
+								"@type": "ListItem",
+								"position": 1,
+								"name": "Portada",
+								"item": "https://losangeles.comes.cl/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 2,
+								"name": "Productos",
+								"item": "https://losangeles.comes.cl/tienda/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 3,
+								"name": "Miel Multifloral 1 kilo"
+							}
+						]
+					}
+				]
+			}
+		},
+		"_links": {
+			"self": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products/60"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products"
+				}
+			]
+		}
+	},
+	{
+		"id": 58,
+		"name": "Zanahorias",
+		"slug": "zanahorias",
+		"permalink": "https://losangeles.comes.cl/producto/zanahorias/",
+		"date_created": "2019-07-14T14:03:59",
+		"date_created_gmt": "2019-07-14T17:03:59",
+		"date_modified": "2021-11-24T22:25:35",
+		"date_modified_gmt": "2021-11-25T01:25:35",
+		"type": "simple",
+		"status": "publish",
+		"featured": false,
+		"catalog_visibility": "visible",
+		"description": "<p>Tras 120 días de cuidados, estas zanahorias llegan hasta ti para lucirse en tus preparaciones. Son regadas con agua de pozo y extraídas de la tierra a mano por la Sra. Miriam y su familia, las lavan y seleccionan con menos de 24 horas de que lleguen a tus manos.</p>\n<p>&nbsp;</p>\n<p>100% zanahorias, producidas sin uso de plaguicidas.</p>\n<p>&nbsp;</p>\n<p>A nosotros nos gustan en palitos para picar, su firmeza y crujiente textura hacen entretenido masticarlas. ¡Pruébalas!</p>\n",
+		"short_description": "<p>Presentación: Malla 1 Kilo</p>\n<p>Productora: <a href=\"https://losangeles.comes.cl/miriam-contreras-soto/\">Miriam Contreras Soto</a></p>\n",
+		"sku": "",
+		"price": "850.00",
+		"regular_price": "850.00",
+		"sale_price": "",
+		"date_on_sale_from": null,
+		"date_on_sale_from_gmt": null,
+		"date_on_sale_to": null,
+		"date_on_sale_to_gmt": null,
+		"on_sale": false,
+		"purchasable": true,
+		"total_sales": 1369,
+		"virtual": false,
+		"downloadable": false,
+		"downloads": [],
+		"download_limit": -1,
+		"download_expiry": -1,
+		"external_url": "",
+		"button_text": "",
+		"tax_status": "taxable",
+		"tax_class": "",
+		"manage_stock": true,
+		"stock_quantity": 5,
+		"backorders": "no",
+		"backorders_allowed": false,
+		"backordered": false,
+		"low_stock_amount": null,
+		"sold_individually": false,
+		"weight": "",
+		"dimensions": {
+			"length": "",
+			"width": "",
+			"height": ""
+		},
+		"shipping_required": true,
+		"shipping_taxable": true,
+		"shipping_class": "",
+		"shipping_class_id": 0,
+		"reviews_allowed": true,
+		"average_rating": "0.00",
+		"rating_count": 0,
+		"upsell_ids": [],
+		"cross_sell_ids": [],
+		"parent_id": 0,
+		"purchase_note": "",
+		"categories": [
+			{
+				"id": 17,
+				"name": "Todos",
+				"slug": "todos"
+			},
+			{
+				"id": 20,
+				"name": "Frutas y Verduras",
+				"slug": "verduras"
+			}
+		],
+		"tags": [
+			{
+				"id": 23,
+				"name": "Miriam Contreras Soto",
+				"slug": "miriam-contreras-soto"
+			}
+		],
+		"images": [
+			{
+				"id": 110,
+				"date_created": "2019-07-26T18:33:45",
+				"date_created_gmt": "2019-07-27T00:33:45",
+				"date_modified": "2019-07-26T18:33:45",
+				"date_modified_gmt": "2019-07-27T00:33:45",
+				"src": "https://losangeles.comes.cl/wp-content/uploads/2019/07/zanahoriacuadro.jpg",
+				"name": "zanahoriacuadro",
+				"alt": ""
+			}
+		],
+		"attributes": [],
+		"default_attributes": [],
+		"variations": [],
+		"grouped_products": [],
+		"menu_order": 0,
+		"price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>850</bdi></span>",
+		"related_ids": [575, 306, 288, 294, 295],
+		"meta_data": [
+			{
+				"id": 3003,
+				"key": "yikes_woo_products_tabs",
+				"value": [
+					{
+						"title": "Información Nutricional",
+						"id": "informacion-nutricional",
+						"content": "<table border=\"1\" cellspacing=\"0\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">100gr</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">Porción 70gr</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Energía(Kcal)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">86</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">60</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Proteínas (g)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,9</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,6</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Carbohidratos (g)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">8,1</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">5,7</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Grasas Totales (g)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,5</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,4</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Fibra (g)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,7</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,5</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Acidos Grasos Poliinsaturados (g)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,8</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,6</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Tiamina (mg)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,1</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Niacina (mg)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,4</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,3</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Vitamina B6 (mg)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,2</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,1</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Ac. Fólico (ug)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">14</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">9,8</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Acido Pantotenico (mg)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,2</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Vitamina C (mg)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">3</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">2,1</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Vitamina A (ug re)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">2813</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">1969,1</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Vitamina E (mg et)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,4</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,3</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Calcio (mg)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">36</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">25,2</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Fosforo (mg)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">20</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">14</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Hierro (mg)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,1</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,1</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Sodio (mg)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">40</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">28</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Magnesio (mg)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">15</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">10,5</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Zinc (mg)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,1</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,1</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Selenio (mg)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">1,4</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">1</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n<p style=\"color: #807e78;\">Cobre (mg)</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0,1</p>\r\n</td>\r\n<td>\r\n<p style=\"color: #807e78;\">0</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+					}
+				]
+			},
+			{
+				"id": 4049,
+				"key": "fb_product_description",
+				"value": ""
+			},
+			{
+				"id": 4051,
+				"key": "_yoast_wpseo_primary_product_cat",
+				"value": ""
+			},
+			{
+				"id": 4052,
+				"key": "_yoast_wpseo_focuskw",
+				"value": "zanahorias"
+			},
+			{
+				"id": 4053,
+				"key": "_yoast_wpseo_linkdex",
+				"value": "43"
+			},
+			{
+				"id": 4054,
+				"key": "_yoast_wpseo_content_score",
+				"value": "60"
+			},
+			{
+				"id": 90936,
+				"key": "fb_product_item_id",
+				"value": "3392510387467356"
+			},
+			{
+				"id": 114390,
+				"key": "_last_editor_used_jetpack",
+				"value": "classic-editor"
+			},
+			{
+				"id": 114391,
+				"key": "fb_product_group_id",
+				"value": "3392510360800692"
+			},
+			{
+				"id": 114392,
+				"key": "_wc_facebook_sync_enabled",
+				"value": "yes"
+			},
+			{
+				"id": 114393,
+				"key": "fb_visibility",
+				"value": "yes"
+			},
+			{
+				"id": 114394,
+				"key": "_wc_facebook_product_image_source",
+				"value": "product"
+			},
+			{
+				"id": 114395,
+				"key": "_wc_facebook_commerce_enabled",
+				"value": "no"
+			},
+			{
+				"id": 141546,
+				"key": "_openpos_product_version_0",
+				"value": "1637803536"
+			},
+			{
+				"id": 228247,
+				"key": "_op_barcode",
+				"value": ""
+			},
+			{
+				"id": 228248,
+				"key": "_op_cost_price",
+				"value": ""
+			},
+			{
+				"id": 228249,
+				"key": "_op_weight_base_pricing",
+				"value": "no"
+			},
+			{
+				"id": 228250,
+				"key": "_yoast_wpseo_metadesc",
+				"value": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como estas zanahorias"
+			},
+			{
+				"id": 228251,
+				"key": "_yoast_wpseo_estimated-reading-time-minutes",
+				"value": ""
+			}
+		],
+		"stock_status": "instock",
+		"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v17.5 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Zanahorias - ComeS Los Ángeles</title>\n<meta name=\"description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como estas zanahorias\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://losangeles.comes.cl/producto/zanahorias/\" />\n<meta property=\"og:locale\" content=\"es_ES\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Zanahorias - ComeS Los Ángeles\" />\n<meta property=\"og:description\" content=\"Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como estas zanahorias\" />\n<meta property=\"og:url\" content=\"https://losangeles.comes.cl/producto/zanahorias/\" />\n<meta property=\"og:site_name\" content=\"ComeS Los Ángeles\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/ComeS.cl/\" />\n<meta property=\"article:modified_time\" content=\"2021-11-25T01:25:35+00:00\" />\n<meta property=\"og:image\" content=\"https://losangeles.comes.cl/wp-content/uploads/2019/07/zanahoriacuadro.jpg\" />\n\t<meta property=\"og:image:width\" content=\"332\" />\n\t<meta property=\"og:image:height\" content=\"332\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://losangeles.comes.cl/#organization\",\"name\":\"ComeS Los \\Ángeles\",\"url\":\"https://losangeles.comes.cl/\",\"sameAs\":[\"https://www.facebook.com/ComeS.cl/\",\"https://www.instagram.com/comes.cl/\"],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/#logo\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg\",\"width\":480,\"height\":480,\"caption\":\"ComeS Los \\Ángeles\"},\"image\":{\"@id\":\"https://losangeles.comes.cl/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://losangeles.comes.cl/#website\",\"url\":\"https://losangeles.comes.cl/\",\"name\":\"ComeS Los \\Ángeles\",\"description\":\"productos locales\",\"publisher\":{\"@id\":\"https://losangeles.comes.cl/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://losangeles.comes.cl/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"es\"},{\"@type\":\"ImageObject\",\"@id\":\"https://losangeles.comes.cl/producto/zanahorias/#primaryimage\",\"inLanguage\":\"es\",\"url\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/zanahoriacuadro.jpg\",\"contentUrl\":\"https://losangeles.comes.cl/wp-content/uploads/2019/07/zanahoriacuadro.jpg\",\"width\":332,\"height\":332},{\"@type\":\"WebPage\",\"@id\":\"https://losangeles.comes.cl/producto/zanahorias/#webpage\",\"url\":\"https://losangeles.comes.cl/producto/zanahorias/\",\"name\":\"Zanahorias - ComeS Los \\Ángeles\",\"isPartOf\":{\"@id\":\"https://losangeles.comes.cl/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://losangeles.comes.cl/producto/zanahorias/#primaryimage\"},\"datePublished\":\"2019-07-14T17:03:59+00:00\",\"dateModified\":\"2021-11-25T01:25:35+00:00\",\"description\":\"Productos de peque\\ños productores locales, saludables y sustentables... encu\\éntralos aqu\\í, como estas zanahorias\",\"breadcrumb\":{\"@id\":\"https://losangeles.comes.cl/producto/zanahorias/#breadcrumb\"},\"inLanguage\":\"es\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://losangeles.comes.cl/producto/zanahorias/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://losangeles.comes.cl/producto/zanahorias/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Portada\",\"item\":\"https://losangeles.comes.cl/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Productos\",\"item\":\"https://losangeles.comes.cl/tienda/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Zanahorias\"}]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+		"yoast_head_json": {
+			"title": "Zanahorias - ComeS Los Ángeles",
+			"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como estas zanahorias",
+			"robots": {
+				"index": "index",
+				"follow": "follow",
+				"max-snippet": "max-snippet:-1",
+				"max-image-preview": "max-image-preview:large",
+				"max-video-preview": "max-video-preview:-1"
+			},
+			"canonical": "https://losangeles.comes.cl/producto/zanahorias/",
+			"og_locale": "es_ES",
+			"og_type": "article",
+			"og_title": "Zanahorias - ComeS Los Ángeles",
+			"og_description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como estas zanahorias",
+			"og_url": "https://losangeles.comes.cl/producto/zanahorias/",
+			"og_site_name": "ComeS Los Ángeles",
+			"article_publisher": "https://www.facebook.com/ComeS.cl/",
+			"article_modified_time": "2021-11-25T01:25:35+00:00",
+			"og_image": [
+				{
+					"width": 332,
+					"height": 332,
+					"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/zanahoriacuadro.jpg",
+					"type": "image/jpeg"
+				}
+			],
+			"twitter_card": "summary_large_image",
+			"schema": {
+				"@context": "https://schema.org",
+				"@graph": [
+					{
+						"@type": "Organization",
+						"@id": "https://losangeles.comes.cl/#organization",
+						"name": "ComeS Los Ángeles",
+						"url": "https://losangeles.comes.cl/",
+						"sameAs": [
+							"https://www.facebook.com/ComeS.cl/",
+							"https://www.instagram.com/comes.cl/"
+						],
+						"logo": {
+							"@type": "ImageObject",
+							"@id": "https://losangeles.comes.cl/#logo",
+							"inLanguage": "es",
+							"url": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/08/ComeSRec.jpg",
+							"width": 480,
+							"height": 480,
+							"caption": "ComeS Los Ángeles"
+						},
+						"image": {
+							"@id": "https://losangeles.comes.cl/#logo"
+						}
+					},
+					{
+						"@type": "WebSite",
+						"@id": "https://losangeles.comes.cl/#website",
+						"url": "https://losangeles.comes.cl/",
+						"name": "ComeS Los Ángeles",
+						"description": "productos locales",
+						"publisher": {
+							"@id": "https://losangeles.comes.cl/#organization"
+						},
+						"potentialAction": [
+							{
+								"@type": "SearchAction",
+								"target": {
+									"@type": "EntryPoint",
+									"urlTemplate": "https://losangeles.comes.cl/?s={search_term_string}"
+								},
+								"query-input": "required name=search_term_string"
+							}
+						],
+						"inLanguage": "es"
+					},
+					{
+						"@type": "ImageObject",
+						"@id": "https://losangeles.comes.cl/producto/zanahorias/#primaryimage",
+						"inLanguage": "es",
+						"url": "https://losangeles.comes.cl/wp-content/uploads/2019/07/zanahoriacuadro.jpg",
+						"contentUrl": "https://losangeles.comes.cl/wp-content/uploads/2019/07/zanahoriacuadro.jpg",
+						"width": 332,
+						"height": 332
+					},
+					{
+						"@type": "WebPage",
+						"@id": "https://losangeles.comes.cl/producto/zanahorias/#webpage",
+						"url": "https://losangeles.comes.cl/producto/zanahorias/",
+						"name": "Zanahorias - ComeS Los Ángeles",
+						"isPartOf": {
+							"@id": "https://losangeles.comes.cl/#website"
+						},
+						"primaryImageOfPage": {
+							"@id": "https://losangeles.comes.cl/producto/zanahorias/#primaryimage"
+						},
+						"datePublished": "2019-07-14T17:03:59+00:00",
+						"dateModified": "2021-11-25T01:25:35+00:00",
+						"description": "Productos de pequeños productores locales, saludables y sustentables... encuéntralos aquí, como estas zanahorias",
+						"breadcrumb": {
+							"@id": "https://losangeles.comes.cl/producto/zanahorias/#breadcrumb"
+						},
+						"inLanguage": "es",
+						"potentialAction": [
+							{
+								"@type": "ReadAction",
+								"target": [
+									"https://losangeles.comes.cl/producto/zanahorias/"
+								]
+							}
+						]
+					},
+					{
+						"@type": "BreadcrumbList",
+						"@id": "https://losangeles.comes.cl/producto/zanahorias/#breadcrumb",
+						"itemListElement": [
+							{
+								"@type": "ListItem",
+								"position": 1,
+								"name": "Portada",
+								"item": "https://losangeles.comes.cl/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 2,
+								"name": "Productos",
+								"item": "https://losangeles.comes.cl/tienda/"
+							},
+							{
+								"@type": "ListItem",
+								"position": 3,
+								"name": "Zanahorias"
+							}
+						]
+					}
+				]
+			}
+		},
+		"_links": {
+			"self": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products/58"
+				}
+			],
+			"collection": [
+				{
+					"href": "https://losangeles.comes.cl/wp-json/wc/v3/products"
+				}
+			]
+		}
+	}
+]
